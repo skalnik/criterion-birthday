@@ -1,0 +1,3291 @@
+[
+  {
+    "spine": "101",
+    "title": "Cries and Whispers",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8968996394900a7ff0de5a53d03ac392/mCvLwTDCAXEVyMHp4om3piFvSm2nzL_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1972",
+    "link": "https://www.criterion.com/films/237-cries-and-whispers"
+  },
+  {
+    "spine": "102",
+    "title": "The Discreet Charm of the Bourgeoisie",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ec5399163d6dca9c04ee961a15f1c863/JegycjW6BfTUczUHnh51sLyJCVKQoy_thumbnail.jpg",
+    "director": "Luis Buñuel",
+    "country": "France",
+    "year": "1972",
+    "link": "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie"
+  },
+  {
+    "spine": "103",
+    "title": "The Lady Eve",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4f5175b5c0e1c0619b482a9650356cc8/AHoTWP6XqNreD4aGRUKfGB3ASi3IVz_thumbnail.jpg",
+    "director": "Preston Sturges",
+    "country": "United States",
+    "year": "1941",
+    "link": "https://www.criterion.com/films/639-the-lady-eve"
+  },
+  {
+    "spine": "104",
+    "title": "Double Suicide",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0cfec1498639e5e592f6be9b58e86f04/foA3fkZR1nsGvXT3pyKNNN0b05Ht5Q_thumbnail.jpg",
+    "director": "Masahiro Shinoda",
+    "country": "Japan",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/640-double-suicide"
+  },
+  {
+    "spine": "105",
+    "title": "Spartacus",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e1d28e10aec9e7e4e26e1f7eaaa39b68/oMuO4YgOTDxILEf87wCLwyLMPvoYPp_thumbnail.jpg",
+    "director": "Stanley Kubrick",
+    "country": "United States",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/449-spartacus"
+  },
+  {
+    "spine": "106",
+    "title": "Coup de torchon",
+    "img": "https://s3.amazonaws.com/criterion-production/films/d0b735e2514d89193aedce88c1dcca8f/cE143kEvrQMUNQgScnzItDD0iU4kxu_thumbnail.jpg",
+    "director": "Bertrand Tavernier",
+    "country": "France",
+    "year": "1981",
+    "link": "https://www.criterion.com/films/647-coup-de-torchon"
+  },
+  {
+    "spine": "107",
+    "title": "Mona Lisa",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3596a424aaf2fbfcecb1acdaefff5aa9/J2myVyWD48oCQfQa7yHRkDMHwtv9Ob_thumbnail.jpg",
+    "director": "Neil Jordan",
+    "country": "United Kingdom",
+    "year": "1986",
+    "link": "https://www.criterion.com/films/648-mona-lisa"
+  },
+  {
+    "spine": "108",
+    "title": "The Rock",
+    "img": "https://s3.amazonaws.com/criterion-production/films/07f4eeb745b2223e67ad82c6dc2e3ed3/o6c4ES95CWTBBINB8ahqL4niihMuLT_thumbnail.jpg",
+    "director": "Michael Bay",
+    "country": "United States",
+    "year": "1996",
+    "link": "https://www.criterion.com/films/649-the-rock"
+  },
+  {
+    "spine": "109",
+    "title": "The Scarlet Empress",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c05defa71a39ec72507b17454065cd64/tUBuNvf4JbyjwJW1M4Yz0vh4zXy6ku_thumbnail.jpg",
+    "director": "Josef von Sternberg",
+    "country": "United States",
+    "year": "1934",
+    "link": "https://www.criterion.com/films/431-the-scarlet-empress"
+  },
+  {
+    "spine": "110",
+    "title": "Monsieur Hulot’s Holiday",
+    "img": "https://s3.amazonaws.com/criterion-production/films/2d61eabe4e6c3f807bf33eb2ca772c5b/Jgz5xA9nzj8AMHZkq936OqiiYrrY1Q_thumbnail.jpg",
+    "director": "Jacques Tati",
+    "country": "France",
+    "year": "1953",
+    "link": "https://www.criterion.com/films/360-monsieur-hulot-s-holiday"
+  },
+  {
+    "spine": "111",
+    "title": "Mon oncle",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0a436dbf0865b63393c35846b989ba4c/cofkAT1oceBnZHsOyale1NmIJZ2Omj_thumbnail.jpg",
+    "director": "Jacques Tati",
+    "country": "France",
+    "year": "1958",
+    "link": "https://www.criterion.com/films/650-mon-oncle"
+  },
+  {
+    "spine": "112",
+    "title": "PlayTime",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9bd43f2e07b01034ff5487b44c4f7c03/TLTI0yP5cgj14Z6tplIMqlLruAT8eD_thumbnail.jpg",
+    "director": "Jacques Tati",
+    "country": "France",
+    "year": "1967",
+    "link": "https://www.criterion.com/films/651-playtime"
+  },
+  {
+    "spine": "113",
+    "title": "Big Deal on Madonna Street",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3ea30a24e22aa24b78417d7c2e5a9c82/TiFmiKcnV2SowrX7dD8EgDucoPy0jI_thumbnail.jpg",
+    "director": "Mario Monicelli",
+    "country": "Italy",
+    "year": "1958",
+    "link": "https://www.criterion.com/films/652-big-deal-on-madonna-street"
+  },
+  {
+    "spine": "114",
+    "title": "My Man Godfrey",
+    "img": "https://s3.amazonaws.com/criterion-production/films/faae05a1b170149a490b96749d940a7f/BeabnGRtbsbWPi0gQYY7xJClHmZjMg_thumbnail.jpg",
+    "director": "Gregory La Cava",
+    "country": "United States",
+    "year": "1936",
+    "link": "https://www.criterion.com/films/653-my-man-godfrey"
+  },
+  {
+    "spine": "115",
+    "title": "Rififi",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f27531f76e2f90c59e79e69450fcf15a/6S7s7O3eZcEEsK7WZcS41azRPFUVqP_thumbnail.jpg",
+    "director": "Jules Dassin",
+    "country": "France",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/654-rififi"
+  },
+  {
+    "spine": "116",
+    "title": "The Hidden Fortress",
+    "img": "https://s3.amazonaws.com/criterion-production/films/58e97ae4dd0b361bd131525faf284b78/K10x3FugjRS01iYKEXsLTr0OlDQk4P_thumbnail.jpg",
+    "director": "Akira Kurosawa",
+    "country": "Japan",
+    "year": "1958",
+    "link": "https://www.criterion.com/films/655-the-hidden-fortress"
+  },
+  {
+    "spine": "117",
+    "title": "Diary of a Chambermaid",
+    "img": "https://s3.amazonaws.com/criterion-production/films/72cae6c4314633b132ea3344963cbb28/55oQcXOOXFWiiCcbKksF9JdYBABk2U_thumbnail.jpg",
+    "director": "Luis Buñuel",
+    "country": "France",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/656-diary-of-a-chambermaid"
+  },
+  {
+    "spine": "118",
+    "title": "Sullivan’s Travels",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3ab3e39d4fbbf677631b93028f6045ea/uKI5bkkhVMW2pC5keD0U3WaykHKvqW_thumbnail.jpg",
+    "director": "Preston Sturges",
+    "country": "United States",
+    "year": "1941",
+    "link": "https://www.criterion.com/films/657-sullivan-s-travels"
+  },
+  {
+    "spine": "119",
+    "title": "Withnail and I",
+    "img": "https://s3.amazonaws.com/criterion-production/films/11fe63e2163ddad8d0b90410b694962a/wlzPkRYEwY3j5dey42L3alx8d9Uy2x_thumbnail.jpg",
+    "director": "Bruce Robinson",
+    "country": "United Kingdom",
+    "year": "1987",
+    "link": "https://www.criterion.com/films/658-withnail-and-i"
+  },
+  {
+    "spine": "120",
+    "title": "How to Get Ahead in Advertising",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9b503d25f9288727a1756d1fb72a1e74/1on26U0trF1EOH2JitADZmXNIvkAHt_thumbnail.jpg",
+    "director": "Bruce Robinson",
+    "country": "United Kingdom",
+    "year": "1989",
+    "link": "https://www.criterion.com/films/660-how-to-get-ahead-in-advertising"
+  },
+  {
+    "spine": "121",
+    "title": "Billy Liar",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c81a1b649bd2025252c0d110b7ee9452/klKcHBRdhOpxleS4lzt62XrG5f4CPY_thumbnail.jpg",
+    "director": "John Schlesinger",
+    "country": "United Kingdom",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/662-billy-liar"
+  },
+  {
+    "spine": "122",
+    "title": "Salesman",
+    "img": "https://s3.amazonaws.com/criterion-production/films/de3ced1c9ab41dc9a3e5d6ad17fb9ba1/nabE9bhsoCoicrC939dTgyUCFmDu2n_thumbnail.jpg",
+    "director": "David Maysles, Albert Maysles, and Charlotte Zwerin",
+    "country": "United States",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/663-salesman"
+  },
+  {
+    "spine": "123",
+    "title": "Grey Gardens",
+    "img": "https://s3.amazonaws.com/criterion-production/films/965817a276fd019b8332f2b4f2bce811/N7zIcrxGOZS992boXjTyy5hJqmh8fd_thumbnail.jpg",
+    "director": "David Maysles, Albert Maysles, Ellen Hovde, and Muffie Meyer",
+    "country": "United States",
+    "year": "1975",
+    "link": "https://www.criterion.com/films/664-grey-gardens"
+  },
+  {
+    "spine": "124",
+    "title": "Carl Theodor Dreyer",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1860-82b0f5807053a21a1cae335b8d477d7f/ZA7wOpAzBD7Xh0bDvZhFii5RQ8BD02_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/254-carl-theodor-dreyer"
+  },
+  {
+    "spine": "125",
+    "title": "Day of Wrath",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a08cc86b0a4c76930a70c79b6e28cb30/VCRpDPd7SFdURJulHsifKoXIDk8rwp_thumbnail.jpg",
+    "director": "Carl Th. Dreyer",
+    "country": "Denmark",
+    "year": "1943",
+    "link": "https://www.criterion.com/films/442-day-of-wrath"
+  },
+  {
+    "spine": "126",
+    "title": "Ordet",
+    "img": "https://s3.amazonaws.com/criterion-production/films/24fa6e0762f08d4196a28e5b2164f6ee/CFhiLjYq4wsUPR2sZ29sKvsMOTZggq_thumbnail.jpg",
+    "director": "Carl Th. Dreyer",
+    "country": "Denmark",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/441-ordet"
+  },
+  {
+    "spine": "127",
+    "title": "Gertrud",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3a2d74980746ffe49fdb54ea36575afe/0ShXROwQwgzXY1eRCAhymJWlZw3Nd7_thumbnail.jpg",
+    "director": "Carl Th. Dreyer",
+    "country": "Denmark",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/443-gertrud"
+  },
+  {
+    "spine": "128",
+    "title": "Carl Th. Dreyer—My Metier",
+    "img": "https://s3.amazonaws.com/criterion-production/films/10c53181d56d265d297a7d6f28476eca/JfCUoXqrA7694HwRorBjDHWJDJUGCu_thumbnail.jpg",
+    "director": "Torben Skjødt Jensen",
+    "country": "Denmark",
+    "year": "1995",
+    "link": "https://www.criterion.com/films/667-carl-th-dreyer-my-metier"
+  },
+  {
+    "spine": "129",
+    "title": "Le trou",
+    "img": "https://s3.amazonaws.com/criterion-production/films/581d2e3f7b055993f715e6e7cadee6ed/EyAcfD4NNSW3uQnDePVJ0rY6Emkqwi_thumbnail.jpg",
+    "director": "Jacques Becker",
+    "country": "France",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/668-le-trou"
+  },
+  {
+    "spine": "130",
+    "title": "The Shop on Main Street",
+    "img": "https://s3.amazonaws.com/criterion-production/films/17a09b267d7df228c099117fcc503b0b/HEN7Igx0rZ7xS24SClFcPTBRs9HxSL_thumbnail.jpg",
+    "director": "Ján Kadár and Elmar Klos",
+    "country": "Czechoslovakia",
+    "year": "1965",
+    "link": "https://www.criterion.com/films/669-the-shop-on-main-street"
+  },
+  {
+    "spine": "131",
+    "title": "Closely Watched Trains",
+    "img": "https://s3.amazonaws.com/criterion-production/films/af59bfa9eb76fd9dbeba7c5a7876101c/2SuquAQzCKQq0BGkFh9avbof4RYG79_thumbnail.jpg",
+    "director": "Jiří Menzel",
+    "country": "Czechoslovakia",
+    "year": "1966",
+    "link": "https://www.criterion.com/films/212-closely-watched-trains"
+  },
+  {
+    "spine": "201",
+    "title": "Umberto D.",
+    "img": "https://s3.amazonaws.com/criterion-production/films/367722dfb270e3a4c758d0b10aebe8ac/twkbkDtlHdjPzwu2VYTWW3el7W0Fd3_thumbnail.jpg",
+    "director": "Vittorio De Sica",
+    "country": "Italy",
+    "year": "1952",
+    "link": "https://www.criterion.com/films/371-umberto-d"
+  },
+  {
+    "spine": "202",
+    "title": "Indiscretion of an American Wife",
+    "img": "https://s3.amazonaws.com/criterion-production/films/88efe0fd7022bda95b58775ad4f6e8a9/3dXWG1WeyQutBTTjGG4FJuSBJaOKxN_thumbnail.jpg",
+    "director": "Vittorio De Sica",
+    "country": "United States",
+    "year": "1953",
+    "link": "https://www.criterion.com/films/586-indiscretion-of-an-american-wife"
+  },
+  {
+    "spine": "203",
+    "title": "The BRD Trilogy",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1945-23da7bdafe273dbec66ce60e6dd58658/V5oY4ZalkXBF5sf9sEHmGPVjlZjmps_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/138-the-brd-trilogy"
+  },
+  {
+    "spine": "204",
+    "title": "The Marriage of Maria Braun",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e311332e819ce74aa50e4f9478640c5a/XsG0lbHPxqjuVl8tZubZfqCvpopBuf_thumbnail.jpg",
+    "director": "Rainer Werner Fassbinder",
+    "country": "West Germany",
+    "year": "1979",
+    "link": "https://www.criterion.com/films/592-the-marriage-of-maria-braun"
+  },
+  {
+    "spine": "205",
+    "title": "Veronika Voss",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a2ae0ebf50af9b05c8b3b3d280ff6366/OuXLNXn2wzJkaHMdreItHpbYZUOFYr_thumbnail.jpg",
+    "director": "Rainer Werner Fassbinder",
+    "country": "West Germany",
+    "year": "1982",
+    "link": "https://www.criterion.com/films/593-veronika-voss"
+  },
+  {
+    "spine": "206",
+    "title": "Lola",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3ea71dbfe24a1936540736e60139c6e3/iPiAJqoeZqtJqa9oDC0dedP1Xff6tt_thumbnail.jpg",
+    "director": "Rainer Werner Fassbinder",
+    "country": "West Germany",
+    "year": "1981",
+    "link": "https://www.criterion.com/films/595-lola"
+  },
+  {
+    "spine": "207",
+    "title": "The Pornographers",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5f00be15d05b84e198167a0d0c43b215/0cl4Pa663UuwdYvZLSHaH61wcgRGDN_thumbnail.jpg",
+    "director": "Shohei Imamura",
+    "country": "Japan",
+    "year": "1966",
+    "link": "https://www.criterion.com/films/602-the-pornographers"
+  },
+  {
+    "spine": "208",
+    "title": "A Film Trilogy by Ingmar Bergman",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1938-86e4176cc4262e3524935d83d5870456/4hx4crqXk77qBf3SJxMwbw6Mz2sDUg_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/89-a-film-trilogy-by-ingmar-bergman"
+  },
+  {
+    "spine": "209",
+    "title": "Through a Glass Darkly",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9297bbfd6b7844574edc8d8845ad42e5/2USvVN72ycuyEsj81YkYu4yjmy0YPY_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1961",
+    "link": "https://www.criterion.com/films/568-through-a-glass-darkly"
+  },
+  {
+    "spine": "210",
+    "title": "Winter Light",
+    "img": "https://s3.amazonaws.com/criterion-production/films/615a2701a468f8fe623d2263f828f9ae/XD9sCchJ9xSddcTuSfcjt9jLrobYC4_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/569-winter-light"
+  },
+  {
+    "spine": "211",
+    "title": "The Silence",
+    "img": "https://s3.amazonaws.com/criterion-production/films/96e1add69295c206401f94f0ad905e63/3N8dRvaGxaUqSIYisqeX0KJpdn69Vw_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/570-the-silence"
+  },
+  {
+     "spine": "212",
+     "title": "Ingmar Bergman Makes a Movie"
+  },
+  {
+    "spine": "213",
+    "title": "Richard III",
+    "img": "https://s3.amazonaws.com/criterion-production/films/32d0f143682b34732d0fdd3ed8e0e7bb/fBklqTm33Jg32mLL79K5I4cZHSt9cE_thumbnail.jpg",
+    "director": "Laurence Olivier",
+    "country": "United Kingdom",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/366-richard-iii"
+  },
+  {
+    "spine": "214",
+    "title": "All That Money Can Buy (a.k.a. The Devil and Daniel Webster)",
+    "img": "https://s3.amazonaws.com/criterion-production/films/160b86b9040a525b23c921e649c9205c/fZdJfFHm6WqsuORvXNxnECVuepIrxW_small.jpg",
+    "director": "William Dieterle",
+    "country": "United States",
+    "year": "1941",
+    "link": "https://www.criterion.com/films/622-all-that-money-can-buy-a-k-a-the-devil-and-daniel-webster"
+  },
+  {
+    "spine": "215",
+    "title": "Knife in the Water",
+    "img": "https://s3.amazonaws.com/criterion-production/films/1d9d5fece5c4c3cc639df4968f5d91bd/s0Sn7ygO2rHmYAmNkjIX5OwPkAYCf7_thumbnail.jpg",
+    "director": "Roman Polanski",
+    "country": "Poland",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/219-knife-in-the-water"
+  },
+  {
+    "spine": "216",
+    "title": "The Rules of the Game",
+    "img": "https://s3.amazonaws.com/criterion-production/films/abd9ca329347cdfa920a9df9befc8128/IHCPc1PSyc10H2Um4kNrtHawCYtiAS_small.jpg",
+    "director": "Jean Renoir",
+    "country": "France",
+    "year": "1939",
+    "link": "https://www.criterion.com/films/295-the-rules-of-the-game"
+  },
+  {
+    "spine": "217",
+    "title": "Tokyo Story",
+    "img": "https://s3.amazonaws.com/criterion-production/films/1b44282b21475545ef56e2aea1b0b19f/LZF1cBQOkP5xsioO5gvLA3sqEk7g0y_thumbnail.jpg",
+    "director": "Yasujiro Ozu",
+    "country": "Japan",
+    "year": "1953",
+    "link": "https://www.criterion.com/films/284-tokyo-story"
+  },
+  {
+    "spine": "218",
+    "title": "Le cercle rouge",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9bd22be353d710a7a2a84bf6e3bb2cd1/Kh3KOTtW6UOlDFLANjy4GdurnppznJ_thumbnail.jpg",
+    "director": "Jean-Pierre Melville",
+    "country": "France",
+    "year": "1970",
+    "link": "https://www.criterion.com/films/628-le-cercle-rouge"
+  },
+  {
+    "spine": "219",
+    "title": "La strada",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3ada40824f5c3aca9583dfbd8b3b6792/9sIzSjGnd1Uzz4x3nn4yq6tpaif5xK_thumbnail.jpg",
+    "director": "Federico Fellini",
+    "country": "Italy",
+    "year": "1954",
+    "link": "https://www.criterion.com/films/185-la-strada"
+  },
+  {
+    "spine": "220",
+    "title": "Naked Lunch",
+    "img": "https://s3.amazonaws.com/criterion-production/films/90d418713a2e7ecc053c7cea7f3edc07/BmQGbMPdDYJ7IwGNosdZiWUsJXh3EI_thumbnail.jpg",
+    "director": "David Cronenberg",
+    "country": "Canada",
+    "year": "1991",
+    "link": "https://www.criterion.com/films/634-naked-lunch"
+  },
+  {
+    "spine": "221",
+    "title": "Ikiru",
+    "img": "https://s3.amazonaws.com/criterion-production/films/170a20632c3aaea17daab26fe62ae0b4/KEnmrGEhKGIUoIrMqG2vVjSk0nkr1h_thumbnail.jpg",
+    "director": "Akira Kurosawa",
+    "country": "Japan",
+    "year": "1952",
+    "link": "https://www.criterion.com/films/353-ikiru"
+  },
+  {
+    "spine": "222",
+    "title": "Diary of a Country Priest",
+    "img": "https://s3.amazonaws.com/criterion-production/films/38f25eb744529ce7b5eab16928217c66/ybtLbvWGrpo9prC4syVXEPuX43ewCS_thumbnail.jpg",
+    "director": "Robert Bresson",
+    "country": "France",
+    "year": "1951",
+    "link": "https://www.criterion.com/films/452-diary-of-a-country-priest"
+  },
+  {
+    "spine": "223",
+    "title": "Maîtresse",
+    "img": "https://s3.amazonaws.com/criterion-production/films/727de42f19292ca17343c7eee0fe58e2/m3EN7eoz9eQ0yiJ4vnyNElkQKED4Ge_thumbnail.jpg",
+    "director": "Barbet Schroeder",
+    "country": "France",
+    "year": "1976",
+    "link": "https://www.criterion.com/films/554-maitresse"
+  },
+  {
+    "spine": "224",
+    "title": "Pickup on South Street",
+    "img": "https://s3.amazonaws.com/criterion-production/films/d5db340eb1cae5f419be0510bf757b46/SKTYhcSrnizW7tJjNKuLcpAyIpo435_small.jpg",
+    "director": "Samuel Fuller",
+    "country": "United States",
+    "year": "1953",
+    "link": "https://www.criterion.com/films/446-pickup-on-south-street"
+  },
+  {
+    "spine": "225",
+    "title": "Tunes of Glory",
+    "img": "https://s3.amazonaws.com/criterion-production/films/418e66a9918f1828df51c24759694c93/fYx0hDxKnfUdjea1QAR3n18yKhbAJy_thumbnail.jpg",
+    "director": "Ronald Neame",
+    "country": "United Kingdom",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/659-tunes-of-glory"
+  },
+  {
+    "spine": "226",
+    "title": "Onibaba",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e0fc371e56bef5749dc61aa890ad5d2e/GESrQUhGrAwZFXI5FVnOsR4gg0aiEj_small.jpg",
+    "director": "Kaneto Shindo",
+    "country": "Japan",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/665-onibaba"
+  },
+  {
+    "spine": "227",
+    "title": "Le Corbeau",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e2d247a9f02067c4e7b009ebaf3dc897/oXrM969Vjj2LmW7zYSjDilZ5BVNGAX_thumbnail.jpg",
+    "director": "Henri-Georges Clouzot",
+    "country": "France",
+    "year": "1943",
+    "link": "https://www.criterion.com/films/684-le-corbeau"
+  },
+  {
+    "spine": "228",
+    "title": "Salvatore Giuliano",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7e75c5b26d08e3221c6824608e9527fe/CzQiBBa54ctX3HbVQRMP3oFadHMzXI_thumbnail.jpg",
+    "director": "Francesco Rosi",
+    "country": "Italy",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/687-salvatore-giuliano"
+  },
+  {
+    "spine": "229",
+    "title": "Scenes from a Marriage",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9cc97a3bd4f3fc0e589ed556ec57c6d3/gDt8pykZ0Jq77v9lN9rKZIldYgM2E0_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1973",
+    "link": "https://www.criterion.com/films/710-scenes-from-a-marriage"
+  },
+  {
+    "spine": "301",
+    "title": "An Angel at My Table",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6785927db8aa1f07dd1962db2eb90fbe/4kQ3PHhymsEpnTpTNBvZV8NdK2i3C7_thumbnail.jpg",
+    "director": "Jane Campion",
+    "country": "New Zealand",
+    "year": "1990",
+    "link": "https://www.criterion.com/films/742-an-angel-at-my-table"
+  },
+  {
+    "spine": "302",
+    "title": "Harakiri",
+    "img": "https://s3.amazonaws.com/criterion-production/films/fe65c912ed0121f71023506eb6cc23be/py4J44m9myctddWu0rfZeTZNdB7l4g_thumbnail.jpg",
+    "director": "Masaki Kobayashi",
+    "country": "Japan",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/743-harakiri"
+  },
+  {
+    "spine": "303",
+    "title": "Bad Timing",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7bf78cd08a9162b633aa991245aeefd1/AckPHYCQJF9q9fcWiMHwL2a0WPlNY1_thumbnail.jpg",
+    "director": "Nicolas Roeg",
+    "country": "United Kingdom",
+    "year": "1980",
+    "link": "https://www.criterion.com/films/744-bad-timing"
+  },
+  {
+    "spine": "304",
+    "title": "The Man Who Fell to Earth",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3efe70d9dba29843d49954161453e578/vHs5Kke4jcyOGFVkRE3LVBDpQ6ZIVD_thumbnail.jpg",
+    "director": "Nicolas Roeg",
+    "country": "United States",
+    "year": "1976",
+    "link": "https://www.criterion.com/films/755-the-man-who-fell-to-earth"
+  },
+  {
+    "spine": "305",
+    "title": "Boudu Saved from Drowning",
+    "img": "https://s3.amazonaws.com/criterion-production/films/41bab7d800fa8e2acb4c1225cc874538/6GhFqGUGRTHmv39pKLAOsW4tpxf0Ys_thumbnail.jpg",
+    "director": "Jean Renoir",
+    "country": "France",
+    "year": "1932",
+    "link": "https://www.criterion.com/films/756-boudu-saved-from-drowning"
+  },
+  {
+    "spine": "306",
+    "title": "Le samouraï",
+    "img": "https://s3.amazonaws.com/criterion-production/films/27db58e44fb4dde2f6501f6f01ff4db4/JgSK0D7xLjHMKNvrYplGmlZ6Wn5bxh_small.jpg",
+    "director": "Jean-Pierre Melville",
+    "country": "France",
+    "year": "1967",
+    "link": "https://www.criterion.com/films/184-le-samourai"
+  },
+  {
+    "spine": "307",
+    "title": "Naked",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ad92e3359b1dde6cd670b3f36c5ddf08/YQZ7RpGqF3uncaRrdKPcrnU0K6LDKE_small.jpg",
+    "director": "Mike Leigh",
+    "country": "United Kingdom",
+    "year": "1993",
+    "link": "https://www.criterion.com/films/220-naked"
+  },
+  {
+    "spine": "308",
+    "title": "Masculin féminin",
+    "img": "https://s3.amazonaws.com/criterion-production/films/956cb3d5725abeeff09544e381c0e319/wvoIwSwakZ94vbcqMIq6kaU4KTDRDj_thumbnail.jpg",
+    "director": "Jean-Luc Godard",
+    "country": "France",
+    "year": "1966",
+    "link": "https://www.criterion.com/films/508-masculin-feminin"
+  },
+  {
+    "spine": "309",
+    "title": "Ugetsu",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c66a1a1981439219be0c6124cebbf6ad/0mD8mQfefSRAootfVPdmKFCJcNK5rq_thumbnail.jpg",
+    "director": "Kenji Mizoguchi",
+    "country": "Japan",
+    "year": "1953",
+    "link": "https://www.criterion.com/films/369-ugetsu"
+  },
+  {
+    "spine": "310",
+    "title": "Samurai Rebellion",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ca3c0784d81f91e3f9aaa1042b85bda1/LXHOssMGpyKq1rwyuscYSnAuNwWOGa_thumbnail.jpg",
+    "director": "Masaki Kobayashi",
+    "country": "Japan",
+    "year": "1967",
+    "link": "https://www.criterion.com/films/753-samurai-rebellion"
+  },
+  {
+    "spine": "311",
+    "title": "Sword of the Beast",
+    "img": "https://s3.amazonaws.com/criterion-production/films/04e10116294528ec2da38cb6c0a5b044/3pKnBkuWZlWe0VWIvtR6D92XRuWPU2_thumbnail.jpg",
+    "director": "Hideo Gosha",
+    "country": "Japan",
+    "year": "1965",
+    "link": "https://www.criterion.com/films/761-sword-of-the-beast"
+  },
+  {
+    "spine": "312",
+    "title": "Samurai Spy",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a5c824b2768519d99d40bf762942e5f6/j3Lb5bKdOK3aRHM1EExYCXPZrj0VYX_thumbnail.jpg",
+    "director": "Masahiro Shinoda",
+    "country": "Japan",
+    "year": "1965",
+    "link": "https://www.criterion.com/films/762-samurai-spy"
+  },
+  {
+    "spine": "313",
+    "title": "Kill!",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4b25766f5b49a52427263008b7c8280f/D1oQctY2FyV7C8jLs1Xnr5OrWOFouD_thumbnail.jpg",
+    "director": "Kihachi Okamoto",
+    "country": "Japan",
+    "year": "1968",
+    "link": "https://www.criterion.com/films/763-kill"
+  },
+  {
+    "spine": "314",
+    "title": "Pickpocket",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0393b1514456110873c27c246596512a/RWW69Tp4DBKzuu2BSSd4Rh6MmATBXj_thumbnail.jpg",
+    "director": "Robert Bresson",
+    "country": "France",
+    "year": "1959",
+    "link": "https://www.criterion.com/films/229-pickpocket"
+  },
+  {
+    "spine": "315",
+    "title": "Shoot the Piano Player",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e2503ca1f726cccd07242a6f9b09d465/7FscZpQOPu1MA6NZgaw4USztuWuS2n_thumbnail.jpg",
+    "director": "François Truffaut",
+    "country": "France",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/764-shoot-the-piano-player"
+  },
+  {
+    "spine": "316",
+    "title": "Ran",
+    "img": "https://s3.amazonaws.com/criterion-production/films/cf75c5b225b8892c55ed98276db4f5ce/MwHT6SDYJSbktYtorPE6MOO8mE3UtI_thumbnail.jpg",
+    "director": "Akira Kurosawa",
+    "country": "Japan",
+    "year": "1985",
+    "link": "https://www.criterion.com/films/754-ran"
+  },
+  {
+    "spine": "317",
+    "title": "The Tales of Hoffmann",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f5f93fa11c4a433beac47edae7573b3a/0vs8sbST33D8PCQoXuU2xPZjtDFT1g_thumbnail.jpg",
+    "director": "Michael Powell and Emeric Pressburger",
+    "country": "United Kingdom",
+    "year": "1951",
+    "link": "https://www.criterion.com/films/748-the-tales-of-hoffmann"
+  },
+  {
+    "spine": "318",
+    "title": "Forbidden Games",
+    "img": "https://s3.amazonaws.com/criterion-production/films/04f0b5903e208318b2f1ae9d4cd6c50a/4M0xqhgB2XoD9IvjA7Woc3h6apooAW_thumbnail.jpg",
+    "director": "René Clément",
+    "country": "France",
+    "year": "1952",
+    "link": "https://www.criterion.com/films/350-forbidden-games"
+  },
+  {
+    "spine": "319",
+    "title": "The Bad Sleep Well",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4c98b16aad002b6f4e9edf0e63d42406/Pk4xUf3hPeb3bakmQm69237kn0XfQ9_thumbnail.jpg",
+    "director": "Akira Kurosawa",
+    "country": "Japan",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/765-the-bad-sleep-well"
+  },
+  {
+    "spine": "320",
+    "title": "Young Mr. Lincoln",
+    "img": "https://s3.amazonaws.com/criterion-production/films/496b3eb80993646a4767cf95a924582a/RBaE1DWa6XGV5DLWc4PrervcjpdC94_thumbnail.jpg",
+    "director": "John Ford",
+    "country": "United States",
+    "year": "1939",
+    "link": "https://www.criterion.com/films/766-young-mr-lincoln"
+  },
+  {
+    "spine": "321",
+    "title": "The Virgin Spring",
+    "img": "https://s3.amazonaws.com/criterion-production/films/801e84275fd24d65ca5c0f42aac9d3e6/7Cd0pGdJRCLCu2KTtuANf8lBDlSPbs_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/372-the-virgin-spring"
+  },
+  {
+    "spine": "322",
+    "title": "The Complete Mr. Arkadin",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a6ecf6ce388664b85c728537cf920661/6kz63rtLVW85LWGxlBQptAJLbOfcws_thumbnail.jpg",
+    "director": "Orson Welles",
+    "country": "France",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/767-the-complete-mr-arkadin"
+  },
+  {
+    "spine": "323",
+    "title": "The Children Are Watching Us",
+    "img": "https://s3.amazonaws.com/criterion-production/films/23cee21c226c25b9177dc10418f8bc0c/DxYliw03F7GOEA3Lkv7fyxHrGyDUnK_thumbnail.jpg",
+    "director": "Vittorio De Sica",
+    "country": "Italy",
+    "year": "1944",
+    "link": "https://www.criterion.com/films/772-the-children-are-watching-us"
+  },
+  {
+    "spine": "324",
+    "title": "La bête humaine",
+    "img": "https://s3.amazonaws.com/criterion-production/films/456aa86ccbb3e2bfd9f72ddcbaeeacec/kSgP1xkaTvYm2ZbzJp7Sv7F2UIEpCZ_thumbnail.jpg",
+    "director": "Jean Renoir",
+    "country": "France",
+    "year": "1938",
+    "link": "https://www.criterion.com/films/773-la-bete-humaine"
+  },
+  {
+    "spine": "325",
+    "title": "Kind Hearts and Coronets",
+    "img": "https://s3.amazonaws.com/criterion-production/films/71ccf81f079936cad976970ce1634a8f/avL3ylJaBubkkJJaUx9n5PESLaVmQX_thumbnail.jpg",
+    "director": "Robert Hamer",
+    "country": "United Kingdom",
+    "year": "1949",
+    "link": "https://www.criterion.com/films/357-kind-hearts-and-coronets"
+  },
+  {
+    "spine": "326",
+    "title": "Metropolitan",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a4030fd0d405faa565150a8bd8614425/MMVDGYzCcqxhnhCe4gPzo36yLJp9aq_thumbnail.jpg",
+    "director": "Whit Stillman",
+    "country": "United States",
+    "year": "1990",
+    "link": "https://www.criterion.com/films/774-metropolitan"
+  },
+  {
+    "spine": "327",
+    "title": "3 Films by Louis Malle",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1877-48de0a1fa166375e5c29008f57be3a14/rbztsW1GKvPEC5vTna3sbQdpYeG9Ro_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/397-3-films-by-louis-malle"
+  },
+  {
+    "spine": "328",
+    "title": "Murmur of the Heart",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a43b1ee7888d6cbc167f3abb0972f03c/wZlRdUxIiRcFh1eJE8P6B88htgjAQP_thumbnail.jpg",
+    "director": "Louis Malle",
+    "country": "France",
+    "year": "1971",
+    "link": "https://www.criterion.com/films/775-murmur-of-the-heart"
+  },
+  {
+    "spine": "329",
+    "title": "Lacombe, Lucien",
+    "img": "https://s3.amazonaws.com/criterion-production/films/fffbcfff515d0c20e1b3b0f9dcf6c098/kEW0iP8oUJpybEDD6J9rP3bPjSYdAf_thumbnail.jpg",
+    "director": "Louis Malle",
+    "country": "France",
+    "year": "1974",
+    "link": "https://www.criterion.com/films/776-lacombe-lucien"
+  },
+  {
+    "spine": "330",
+    "title": "Au revoir les enfants",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ef0efc13c424e4fab6dc50a43dac4ed7/QvHxIlkd6X09v1giwAZb3VfhbXkunF_thumbnail.jpg",
+    "director": "Louis Malle",
+    "country": "France",
+    "year": "1987",
+    "link": "https://www.criterion.com/films/549-au-revoir-les-enfants"
+  },
+  {
+    "spine": "331",
+    "title": "Late Spring",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b36c368d289d0dead068cd8a35524d59/75M2sRH7tFJjp4gxf1QNvLDp3qA8CS_thumbnail.jpg",
+    "director": "Yasujiro Ozu",
+    "country": "Japan",
+    "year": "1949",
+    "link": "https://www.criterion.com/films/298-late-spring"
+  },
+  {
+    "spine": "401",
+    "title": "Night on Earth",
+    "img": "https://s3.amazonaws.com/criterion-production/films/300f04cc44f51c1d1b81f577e32bba58/elypGlAsVgJgbxoAuddnPOiRlvDUf5_thumbnail.jpg",
+    "director": "Jim Jarmusch",
+    "country": "United States",
+    "year": "1991",
+    "link": "https://www.criterion.com/films/227-night-on-earth"
+  },
+  {
+    "spine": "402",
+    "title": "The Milky Way",
+    "img": "https://s3.amazonaws.com/criterion-production/films/02da6d0b2fd1e950fd9957183fdc7e4c/ej69g5q5pHy14hEGuprhPOTERaAEuI_thumbnail.jpg",
+    "director": "Luis Buñuel",
+    "country": "France",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/832-the-milky-way"
+  },
+  {
+    "spine": "403",
+    "title": "Cría cuervos . . .",
+    "img": "https://s3.amazonaws.com/criterion-production/films/69a4c4ac0d7ec8b395b49e445f40f7f8/FOqxqToJ8GLTXiWaJjhUSo1Fk8kmh2_thumbnail.jpg",
+    "director": "Carlos Saura",
+    "country": "Spain",
+    "year": "1976",
+    "link": "https://www.criterion.com/films/519-cria-cuervos"
+  },
+  {
+    "spine": "404",
+    "title": "Robinson Crusoe on Mars",
+    "img": "https://s3.amazonaws.com/criterion-production/films/19d005b575e7136ff463024ec840613c/hap5I5lbMCQ69CG6Yw7AS5HcOcNme2_thumbnail.jpg",
+    "director": "Byron Haskin",
+    "country": "United States",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/821-robinson-crusoe-on-mars"
+  },
+  {
+    "spine": "405",
+    "title": "The Threepenny Opera",
+    "img": "https://s3.amazonaws.com/criterion-production/films/61a18b721d7da3c80336baf91a7bd9f7/vjFC4gmkYHWrhV09dgqGRyHtLcJ5Rp_thumbnail.jpg",
+    "director": "G. W. Pabst",
+    "country": "Germany",
+    "year": "1931",
+    "link": "https://www.criterion.com/films/834-the-threepenny-opera"
+  },
+  {
+    "spine": "406",
+    "title": "Martha Graham: Dance on Film",
+    "img": "https://s3.amazonaws.com/criterion-production/films/85fde6e10c9b088d8feed4809ede6995/ZXZHb9g0k9jNqHuCOOFh00ggApkwZq_thumbnail.jpg",
+    "director": "Nathan Kroll",
+    "country": "United States",
+    "year": "1959",
+    "link": "https://www.criterion.com/films/835-martha-graham-dance-on-film"
+  },
+  {
+    "spine": "407",
+    "title": "Mala Noche",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f02f7508220639e063310b7ce6cdeb17/SJB8Gpe59wXrp6mPEg2abzw31HI6jk_thumbnail.jpg",
+    "director": "Gus Van Sant",
+    "country": "United States",
+    "year": "1985",
+    "link": "https://www.criterion.com/films/253-mala-noche"
+  },
+  {
+    "spine": "408",
+    "title": "Breathless",
+    "img": "https://s3.amazonaws.com/criterion-production/films/cbbba20dd4d6cc66800de5b92278ce57/LsVjs5RCEvtZRI65Qd3c2XJk1mhCxa_thumbnail.jpg",
+    "director": "Jean-Luc Godard",
+    "country": "France",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/268-breathless"
+  },
+  {
+    "spine": "409",
+    "title": "Days of Heaven",
+    "img": "https://s3.amazonaws.com/criterion-production/films/30367b17069d8330be212c4fb894eddd/lPoLbebM4chPnOP6nKAJ7iyCw0enhz_thumbnail.jpg",
+    "director": "Terrence Malick",
+    "country": "United States",
+    "year": "1978",
+    "link": "https://www.criterion.com/films/213-days-of-heaven"
+  },
+  {
+    "spine": "410",
+    "title": "Under the Volcano",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4b7422b56ee169b5b3d8581fe79f11fc/ocutEPmmOX4HRQR8RFenoUHcw0hvk6_thumbnail.jpg",
+    "director": "John Huston",
+    "country": "United States",
+    "year": "1984",
+    "link": "https://www.criterion.com/films/837-under-the-volcano"
+  },
+  {
+    "spine": "411",
+    "title": "Berlin Alexanderplatz",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9d4f9a9e8c6a9a3dbc2962ee1c0fe66b/HkmiAJeukYH7OdffZ53S8gVu9ojPoZ_thumbnail.jpg",
+    "director": "Rainer Werner Fassbinder",
+    "country": "Germany",
+    "year": "1980",
+    "link": "https://www.criterion.com/films/839-berlin-alexanderplatz"
+  },
+  {
+    "spine": "412",
+    "title": "Sawdust and Tinsel",
+    "img": "https://s3.amazonaws.com/criterion-production/films/273c880f9b86db12085712e36c829f35/xvWUTsUwqlyfDFICltA1KFvzusbOXv_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1953",
+    "link": "https://www.criterion.com/films/842-sawdust-and-tinsel"
+  },
+  {
+    "spine": "413",
+    "title": "Drunken Angel",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3748c742c2f41068012a9e70eef24beb/Z5VutaTNkaHewyJm6NXp4d82n2SHC1_thumbnail.jpg",
+    "director": "Akira Kurosawa",
+    "country": "Japan",
+    "year": "1948",
+    "link": "https://www.criterion.com/films/845-drunken-angel"
+  },
+  {
+    "spine": "414",
+    "title": "Two-Lane Blacktop",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f2abc1a7be5b54ca95c85cba8ea0dec5/B54vSU2FueuGdEg0nrnhNaAlZcXU9P_thumbnail.jpg",
+    "director": "Monte Hellman",
+    "country": "United States",
+    "year": "1971",
+    "link": "https://www.criterion.com/films/847-two-lane-blacktop"
+  },
+  {
+    "spine": "415",
+    "title": "The Naked Prey",
+    "img": "https://s3.amazonaws.com/criterion-production/films/040b9ada9b2e7f00bf67207c219e907d/SqsWAMsxDc8dEu6YmD98XbtlIJ2Qak_thumbnail.jpg",
+    "director": "Cornel Wilde",
+    "country": "United States",
+    "year": "1965",
+    "link": "https://www.criterion.com/films/848-the-naked-prey"
+  },
+  {
+    "spine": "416",
+    "title": "Miss Julie",
+    "img": "https://s3.amazonaws.com/criterion-production/films/493d910d7cfcce1d103f6354027d6d37/NT4wqOdozXSzODYv04w2NGpHYiqc23_thumbnail.jpg",
+    "director": "Alf Sjöberg",
+    "country": "Sweden",
+    "year": "1951",
+    "link": "https://www.criterion.com/films/361-miss-julie"
+  },
+  {
+    "spine": "417",
+    "title": "This Sporting Life",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f722b4254dfd2142455afdde72a50ba0/4sTsCRidLlTehDNgglGCpzeCvOZ7a6_thumbnail.jpg",
+    "director": "Lindsay Anderson",
+    "country": "United Kingdom",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/853-this-sporting-life"
+  },
+  {
+    "spine": "418",
+    "title": "4 by Agnès Varda",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1856-70cb6699a8cee4d1285949a3f86c813d/NxYyVlcajs0ng5eCLjUz0H5LgGSk7Z_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/8-4-by-agnes-varda"
+  },
+  {
+    "spine": "419",
+    "title": "La Pointe Courte",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7fd267f4ab79e18d27e5a0df332b7b75/FCE8q407FjQwB36gZhWXkpN7ALK99l_thumbnail.jpg",
+    "director": "Agnès Varda",
+    "country": "France",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/524-la-pointe-courte"
+  },
+  {
+    "spine": "420",
+    "title": "Le bonheur",
+    "img": "https://s3.amazonaws.com/criterion-production/films/bfc8b1f1add9c0479f15115114ca1bca/mPun3IS9hLJyKvz5XEMII63cGgWfUo_thumbnail.jpg",
+    "director": "Agnès Varda",
+    "country": "France",
+    "year": "1965",
+    "link": "https://www.criterion.com/films/525-le-bonheur"
+  },
+  {
+    "spine": "421",
+    "title": "Pierrot le fou",
+    "img": "https://s3.amazonaws.com/criterion-production/films/863a628f2ab5b361433b82f3ca447dd9/CGhaAaDzvaQUyGtIKeyAtcMz5Q790L_thumbnail.jpg",
+    "director": "Jean-Luc Godard",
+    "country": "France",
+    "year": "1965",
+    "link": "https://www.criterion.com/films/149-pierrot-le-fou"
+  },
+  {
+    "spine": "422",
+    "title": "The Last Emperor",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0d98b77f2fc528a8eb2e980f290093a7/arvPvp4qN4JfMfgaOrM2c3QJ4NmX4W_thumbnail.jpg",
+    "director": "Bernardo Bertolucci",
+    "country": "China",
+    "year": "1987",
+    "link": "https://www.criterion.com/films/254-the-last-emperor"
+  },
+  {
+    "spine": "423",
+    "title": "Walker",
+    "img": "https://s3.amazonaws.com/criterion-production/films/783be5c175b4ef821d6711057a9150b0/UOWfWBRkOsrUikiEyC54Jaz5tEOKl5_small.jpg",
+    "director": "Alex Cox",
+    "country": "United States",
+    "year": "1987",
+    "link": "https://www.criterion.com/films/526-walker"
+  },
+  {
+    "spine": "424",
+    "title": "Mafioso",
+    "img": "https://s3.amazonaws.com/criterion-production/films/2ec7132b8f11e92f696e16127e8d48c6/o34ALiarwLjqvYHi9I181gYcKgNoj7_thumbnail.jpg",
+    "director": "Alberto Lattuada",
+    "country": "Italy",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/527-mafioso"
+  },
+  {
+    "spine": "425",
+    "title": "Antonio Gaudí",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9fbb1fd3e4b0e01dba200e753955bb7a/NKIsmQqC7PGzqels7ynuEsT5dqK8Zs_thumbnail.jpg",
+    "director": "Hiroshi Teshigahara",
+    "country": "Japan",
+    "year": "1984",
+    "link": "https://www.criterion.com/films/536-antonio-gaudi"
+  },
+  {
+    "spine": "426",
+    "title": "The Ice Storm",
+    "img": "https://s3.amazonaws.com/criterion-production/films/58460754ccb655336e3763ae13943ea3/XxMhtmUAZQVOCVizNc8uDFw6UoNiyb_thumbnail.jpg",
+    "director": "Ang Lee",
+    "country": "United States",
+    "year": "1997",
+    "link": "https://www.criterion.com/films/336-the-ice-storm"
+  },
+  {
+    "spine": "427",
+    "title": "Death of a Cyclist",
+    "img": "https://s3.amazonaws.com/criterion-production/films/012ec32830c466da41184e9b7ae850b9/j8Biresgpv45Yek1l8voqqAyV3xkcT_thumbnail.jpg",
+    "director": "Juan Antonio Bardem",
+    "country": "Spain",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/537-death-of-a-cyclist"
+  },
+  {
+    "spine": "428",
+    "title": "Blast of Silence",
+    "img": "https://s3.amazonaws.com/criterion-production/films/00c5f4f396acc0aa965fb55f2930a075/SylXsnj8nyxmO3Hp9ChAVQxpUuGdDL_thumbnail.jpg",
+    "director": "Allen Baron",
+    "country": "United States",
+    "year": "1961",
+    "link": "https://www.criterion.com/films/538-blast-of-silence"
+  },
+  {
+    "spine": "429",
+    "title": "The Lovers",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3131ec3285f60f1acc9c90c8b42a1d5f/RofcqCXxGhvqtfNczxIk9a9ijuZSCI_thumbnail.jpg",
+    "director": "Louis Malle",
+    "country": "France",
+    "year": "1958",
+    "link": "https://www.criterion.com/films/539-the-lovers"
+  },
+  {
+    "spine": "430",
+    "title": "The Fire Within",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a8c39a413f3134b2940ede42c30c02d3/qL6ZEBtqgDUf0j76xJ6GFEpaGQYXl3_thumbnail.jpg",
+    "director": "Louis Malle",
+    "country": "France",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/540-the-fire-within"
+  },
+  {
+    "spine": "501",
+    "title": "Paris, Texas",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f2d271896fa3215c5eafafca0ba42a43/I3doHb7CxRFjiAeQr2b26meVAELksg_thumbnail.jpg",
+    "director": "Wim Wenders",
+    "country": "Germany",
+    "year": "1984",
+    "link": "https://www.criterion.com/films/1502-paris-texas"
+  },
+  {
+    "spine": "502",
+    "title": "Revanche",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8bd7bc2e13975cd8733f51d85346f8c0/jv8mOJ3S7gzDFNooyV0zXbNrHG8exO_thumbnail.jpg",
+    "director": "Götz Spielmann",
+    "country": "Austria",
+    "year": "2008",
+    "link": "https://www.criterion.com/films/85-revanche"
+  },
+  {
+    "spine": "503",
+    "title": "Lola Montès",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e5c7435a9dbc4d547966c42139b17e05/CIDQTwh6cAejzHXtCFcPu4on6pTik2_thumbnail.jpg",
+    "director": "Max Ophuls",
+    "country": "Germany",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/938-lola-montes"
+  },
+  {
+    "spine": "504",
+    "title": "Hunger",
+    "img": "https://s3.amazonaws.com/criterion-production/films/66a9957bbcbdf18421c0735800163b84/Qv5SAAgBPjNhiYb9GT6s0ve3ph0kWV_thumbnail.jpg",
+    "director": "Steve McQueen",
+    "country": "Ireland",
+    "year": "2008",
+    "link": "https://www.criterion.com/films/477-hunger"
+  },
+  {
+    "spine": "505",
+    "title": "Make Way for Tomorrow",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b81c8187c76b9c223db901af9aa9bd68/DwfbqHADh1HmiIZTScr9mepIhGeXdj_thumbnail.jpg",
+    "director": "Leo McCarey",
+    "country": "United States",
+    "year": "1937",
+    "link": "https://www.criterion.com/films/2350-make-way-for-tomorrow"
+  },
+  {
+    "spine": "506",
+    "title": "Dillinger Is Dead",
+    "img": "https://s3.amazonaws.com/criterion-production/films/898808a9204021a47c57b59173c72e75/ttGzJdB52PJ2tfhbXB89WxPhDBytPI_thumbnail.jpg",
+    "director": "Marco Ferreri",
+    "country": "Italy",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/21641-dillinger-is-dead"
+  },
+  {
+    "spine": "507",
+    "title": "Bigger Than Life",
+    "img": "https://s3.amazonaws.com/criterion-production/films/d4d406ae48cd0fbfc78216e2efb5bf43/NEeX7phTkN3xjrd1deXb0RmokIXDG3_thumbnail.jpg",
+    "director": "Nicholas Ray",
+    "country": "United States",
+    "year": "1956",
+    "link": "https://www.criterion.com/films/1929-bigger-than-life"
+  },
+  {
+    "spine": "508",
+    "title": "Letters from Fontainhas: Three Films by Pedro Costa",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1851-dba6177f0bd538f868c12a4c87760e83/tLbF78x2hqXHJGqSbQ5j7qW9izcNvg_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/704-letters-from-fontainhas-three-films-by-pedro-costa"
+  },
+  {
+    "spine": "509",
+    "title": "Ossos",
+    "img": "https://s3.amazonaws.com/criterion-production/films/1f26021625d2e2e4b8ca84ebe942f854/ewcI4BpdaNjfLaahutp5MgA2scdl0v_thumbnail.jpg",
+    "director": "Pedro Costa",
+    "country": "Portugal",
+    "year": "1997",
+    "link": "https://www.criterion.com/films/21942-ossos"
+  },
+  {
+    "spine": "510",
+    "title": "In Vanda’s Room",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c8fa6dc833c2a454531e48b4c36030ea/ZfYymz0KrSklWG1WRfDL4ZhT653erp_thumbnail.jpg",
+    "director": "Pedro Costa",
+    "country": "Portugal",
+    "year": "2000",
+    "link": "https://www.criterion.com/films/20820-in-vanda-s-room"
+  },
+  {
+    "spine": "511",
+    "title": "Colossal Youth",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6d11fa2755ba7b9ae8fef609d52c7d2a/EUCxeXlhyFlnIoUOXvT7PGXA0YMhSf_thumbnail.jpg",
+    "director": "Pedro Costa",
+    "country": "Portugal",
+    "year": "2006",
+    "link": "https://www.criterion.com/films/439-colossal-youth"
+  },
+  {
+    "spine": "512",
+    "title": "Vivre sa vie",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6c42e9306f69e2c84606a21ced97b83e/uRrrPBrhJfarv6LCJNGmDeomAoShvN_thumbnail.jpg",
+    "director": "Jean-Luc Godard",
+    "country": "France",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/3060-vivre-sa-vie"
+  },
+  {
+    "spine": "513",
+    "title": "Summer Hours",
+    "img": "https://s3.amazonaws.com/criterion-production/films/090fea3a9b4dd4b5f619eb566b146912/Hwz75bhUTZHwTHXqMPaIiKldg7T7bL_thumbnail.jpg",
+    "director": "Olivier Assayas",
+    "country": "France",
+    "year": "2008",
+    "link": "https://www.criterion.com/films/473-summer-hours"
+  },
+  {
+    "spine": "514",
+    "title": "Ride with the Devil",
+    "img": "https://s3.amazonaws.com/criterion-production/films/bb12c3d02a5fd5ecfeaa59b6c83033b1/Bw7MZjZOFvVBdeObsJ8awPzqsIbH5i_thumbnail.jpg",
+    "director": "Ang Lee",
+    "country": "United States",
+    "year": "1999",
+    "link": "https://www.criterion.com/films/17282-ride-with-the-devil"
+  },
+  {
+    "spine": "515",
+    "title": "The Fugitive Kind",
+    "img": "https://s3.amazonaws.com/criterion-production/films/54bc36388e16357fc3a1d942cb8d5b1f/gxZAPSOZS3yNklK8cd2gjlpnpKsGFq_thumbnail.jpg",
+    "director": "Sidney Lumet",
+    "country": "United States",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/17998-the-fugitive-kind"
+  },
+  {
+    "spine": "516",
+    "title": "Stagecoach",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c95af92bca3b979d3e7e4f251f010260/CsMBDL8lJ5CrZjyii2JVkG5nLIFDxc_thumbnail.jpg",
+    "director": "John Ford",
+    "country": "United States",
+    "year": "1939",
+    "link": "https://www.criterion.com/films/980-stagecoach"
+  },
+  {
+    "spine": "517",
+    "title": "By Brakhage: An Anthology, Volume Two",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3eb6763798a2beb8c2e66f2cba9bf438/oOjVjvYPIHS1KXuKIHOna0hvBJrCmM_thumbnail.jpg",
+    "director": "Stan Brakhage",
+    "country": "United States",
+    "year": "",
+    "link": "https://www.criterion.com/films/23953-by-brakhage-an-anthology-volume-two"
+  },
+  {
+    "spine": "518",
+    "title": "By Brakhage: An Anthology, Volumes One and Two",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1980-d6f55873e3a1b4901255990fca628280/58sDczfTOsoQ3ZJKh8W7xzcwE95s1f_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/722-by-brakhage-an-anthology-volumes-one-and-two"
+  },
+  {
+    "spine": "519",
+    "title": "Close-up",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f9336f2ded115dc95c6a6c716bd0f95c/4QuIU35kiEFEwppIu5Fmj74pKoJmrs_thumbnail.jpg",
+    "director": "Abbas Kiarostami",
+    "country": "Iran",
+    "year": "1990",
+    "link": "https://www.criterion.com/films/1092-close-up"
+  },
+  {
+    "spine": "520",
+    "title": "Everlasting Moments",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f4a75fa9e4e3797bba7a179dd774d412/n4PstJirHzLRuR7mdBBOY7ntCG6Suo_thumbnail.jpg",
+    "director": "Jan Troell",
+    "country": "Sweden",
+    "year": "2008",
+    "link": "https://www.criterion.com/films/21118-everlasting-moments"
+  },
+  {
+    "spine": "521",
+    "title": "Mystery Train",
+    "img": "https://s3.amazonaws.com/criterion-production/films/cb051eccc859df79f34384dbb07d348e/lnBFWjRhYljtqu7KY6hyN5JSJ16F7L_thumbnail.jpg",
+    "director": "Jim Jarmusch",
+    "country": "United States",
+    "year": "1989",
+    "link": "https://www.criterion.com/films/2057-mystery-train"
+  },
+  {
+    "spine": "522",
+    "title": "Red Desert",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f0698d10e7f1a77dd8e328a8ea94797f/Vd8Khg2Vd5KoE8hVxNrGs10PHkZAgZ_thumbnail.jpg",
+    "director": "Michelangelo Antonioni",
+    "country": "France",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/1454-red-desert"
+  },
+  {
+    "spine": "523",
+    "title": "Night Train to Munich",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b5824ced3bf57cab7eeeec449300d5a2/yeWQyGUC9wbJ1ik9nmZdOGx1nxPY71_thumbnail.jpg",
+    "director": "Carol Reed",
+    "country": "United Kingdom",
+    "year": "1940",
+    "link": "https://www.criterion.com/films/25039-night-train-to-munich"
+  },
+  {
+    "spine": "524",
+    "title": "The Only Son/There Was a Father: Two Films by Yasujiro Ozu",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1846-9cfef2c5fa060f8411bc2acc04261a18/KDlOmOyxMcew06CzkKPKggnG1K2TO6_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/730-the-only-son-there-was-a-father-two-films-by-yasujiro-ozu"
+  },
+  {
+    "spine": "525",
+    "title": "The Only Son",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b3d0110fb07ddfccb55a210d83a7685d/CmZl8wRwMB2JynT2dEFHvmX6JaiOmX_thumbnail.jpg",
+    "director": "Yasujiro Ozu",
+    "country": "Japan",
+    "year": "1936",
+    "link": "https://www.criterion.com/films/2606-the-only-son"
+  },
+  {
+    "spine": "526",
+    "title": "There Was a Father",
+    "img": "https://s3.amazonaws.com/criterion-production/films/af043fc9016d1ce31797493aaa116746/8KQnb1GwHeIFMDJInowyRehSPzXYAI_thumbnail.jpg",
+    "director": "Yasujiro Ozu",
+    "country": "Japan",
+    "year": "1942",
+    "link": "https://www.criterion.com/films/22839-there-was-a-father"
+  },
+  {
+    "spine": "527",
+    "title": "The Secret of the Grain",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b91e8046a3cdde8af573076ab6fbe47b/Q2WNbtvGEpVPvl5Dfgaoiz9pWS67Z5_thumbnail.jpg",
+    "director": "Abdellatif Kechiche",
+    "country": "France",
+    "year": "2007",
+    "link": "https://www.criterion.com/films/1344-the-secret-of-the-grain"
+  },
+  {
+    "spine": "528",
+    "title": "3 Silent Classics by Josef von Sternberg",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1844-c9cb634fa3b22393408e64804c4b045c/u8zW5OazrYxQD3wNBZLu8H9zaj8mTx_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/744-3-silent-classics-by-josef-von-sternberg"
+  },
+  {
+    "spine": "529",
+    "title": "Underworld",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ebcb1979998ab8ee3ab134656f960f6b/YNWRM1t0jkjrBI5BwHq7E7Lda0ducP_thumbnail.jpg",
+    "director": "Josef von Sternberg",
+    "country": "United States",
+    "year": "1927",
+    "link": "https://www.criterion.com/films/21766-underworld"
+  },
+  {
+    "spine": "530",
+    "title": "The Last Command",
+    "img": "https://s3.amazonaws.com/criterion-production/films/2b931ae29e86d4ed2063537bf098980c/OKZUvVNJVZ8ObmVB14S6T0rxmoG8CA_thumbnail.jpg",
+    "director": "Josef von Sternberg",
+    "country": "United States",
+    "year": "1928",
+    "link": "https://www.criterion.com/films/6721-the-last-command"
+  },
+  {
+    "spine": "531",
+    "title": "The Docks of New York",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c95ef17d3f5b91ddf79776a8ae82423d/5CUoTbddFmMGGKxJr3F6e9FZpX9Nor_thumbnail.jpg",
+    "director": "Josef von Sternberg",
+    "country": "United States",
+    "year": "1928",
+    "link": "https://www.criterion.com/films/1942-the-docks-of-new-york"
+  },
+  {
+    "spine": "601",
+    "title": "Letter Never Sent",
+    "img": "https://s3.amazonaws.com/criterion-production/films/beccaaa7a0fd41e893db3f406c82b3a5/ZrOOyiw3uM183nl43u46kFpLGvAZXr_thumbnail.jpg",
+    "director": "Mikhail Kalatozov",
+    "country": "Soviet Union",
+    "year": "1959",
+    "link": "https://www.criterion.com/films/27673-letter-never-sent"
+  },
+  {
+    "spine": "602",
+    "title": "The War Room",
+    "img": "https://s3.amazonaws.com/criterion-production/films/99a4844716cb74f633b512d438c35e84/AzMPeGMS75YpzGDhcQzt0OMv2djJOY_thumbnail.jpg",
+    "director": "Chris Hegedus and D. A. Pennebaker",
+    "country": "United States",
+    "year": "1993",
+    "link": "https://www.criterion.com/films/28029-the-war-room"
+  },
+  {
+    "spine": "603",
+    "title": "David Lean Directs Noël Coward",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1840-088af0518384d0cd3ade371a9be9adad/HA6lPFqR7TccJBZskcnpzNd3SgtQAz_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/861-david-lean-directs-noel-coward"
+  },
+  {
+    "spine": "604",
+    "title": "In Which We Serve",
+    "img": "https://s3.amazonaws.com/criterion-production/films/2337de26902c1098f9f4f5391509b618/8cF4ebQ0D9MPhFC6Og9iujz2Daexcu_thumbnail.jpg",
+    "director": "David Lean and Noël Coward",
+    "country": "United Kingdom",
+    "year": "1942",
+    "link": "https://www.criterion.com/films/28185-in-which-we-serve"
+  },
+  {
+    "spine": "605",
+    "title": "This Happy Breed",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8b53ffd205f5f2bf9f328b3940820344/GyqFGSUJ8VabXsYbhO9vEVrlnKFO2N_thumbnail.jpg",
+    "director": "David Lean",
+    "country": "United Kingdom",
+    "year": "1944",
+    "link": "https://www.criterion.com/films/28144-this-happy-breed"
+  },
+  {
+    "spine": "606",
+    "title": "Blithe Spirit",
+    "img": "https://s3.amazonaws.com/criterion-production/films/700cdf843d9e0b61059e89897e49f240/n5pDONxrIiOlyCJR7T6elIdkBhiMHv_thumbnail.jpg",
+    "director": "David Lean",
+    "country": "United Kingdom",
+    "year": "1945",
+    "link": "https://www.criterion.com/films/28156-blithe-spirit"
+  },
+  {
+    "spine": "607",
+    "title": "A Hollis Frampton Odyssey",
+    "img": "https://s3.amazonaws.com/criterion-production/films/64c7d529a8d4e10d520db42f3dc7b014/S2sTH8wiDg1mVix1TWfmCfhjkYKEtb_thumbnail.jpg",
+    "director": "Hollis Frampton",
+    "country": "United States",
+    "year": "",
+    "link": "https://www.criterion.com/films/27945-a-hollis-frampton-odyssey"
+  },
+  {
+    "spine": "608",
+    "title": "Harold and Maude",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a65beb06c111790660f9b06b409504bc/XjukkCbTA5i6GBZE6DOeYtwUqrwYNW_thumbnail.jpg",
+    "director": "Hal Ashby",
+    "country": "United States",
+    "year": "1971",
+    "link": "https://www.criterion.com/films/27896-harold-and-maude"
+  },
+  {
+    "spine": "609",
+    "title": "¡Alambrista!",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0491f97086109447ae043dd560ab1deb/yN0HxZOaIlmehJUNzXjOrTZoTSNtdp_thumbnail.jpg",
+    "director": "Robert M. Young",
+    "country": "United States",
+    "year": "1977",
+    "link": "https://www.criterion.com/films/28101--alambrista"
+  },
+  {
+    "spine": "610",
+    "title": "The Organizer",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a90c0d0249e4b0669520f8338edf52ff/KhWjvv7SR4ccx10syh2rFGWy8bgrxH_thumbnail.jpg",
+    "director": "Mario Monicelli",
+    "country": "Italy",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/27612-the-organizer"
+  },
+  {
+    "spine": "611",
+    "title": "Being John Malkovich",
+    "img": "https://s3.amazonaws.com/criterion-production/films/bd9c06388d59cfc3807d2d978d9b3113/1VhiMSCjj2iWXG4MW3xKDYZqO8sWc7_thumbnail.jpg",
+    "director": "Spike Jonze",
+    "country": "United States",
+    "year": "1999",
+    "link": "https://www.criterion.com/films/28055-being-john-malkovich"
+  },
+  {
+    "spine": "612",
+    "title": "Certified Copy",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ed5bfc7fe3c7dfe449bf3da7231d9fa8/thxExFcyQ2F4wpY5UMmrUPQddU70uu_thumbnail.jpg",
+    "director": "Abbas Kiarostami",
+    "country": "Iran",
+    "year": "2010",
+    "link": "https://www.criterion.com/films/28353-certified-copy"
+  },
+  {
+    "spine": "613",
+    "title": "Summer Interlude",
+    "img": "https://s3.amazonaws.com/criterion-production/films/72cf985f10f7c3fb55891726de421b92/6SmQWtN7jh7aMw3ZArD3H1Wj63sv2b_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1951",
+    "link": "https://www.criterion.com/films/27782-summer-interlude"
+  },
+  {
+    "spine": "614",
+    "title": "Summer with Monika",
+    "img": "https://s3.amazonaws.com/criterion-production/films/06ca64e64f53a32a330eb79247c5dd6b/hpbmGuJ0K6p12f6Y2bcZSk0BaKAUs1_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1953",
+    "link": "https://www.criterion.com/films/27638-summer-with-monika"
+  },
+  {
+    "spine": "615",
+    "title": "The Gold Rush",
+    "img": "https://s3.amazonaws.com/criterion-production/films/fdadf1be688a6bdb002a4f755a2f1e8a/c9HthNBy69Dc9QXCAIQZPsgQx7jKRt_thumbnail.jpg",
+    "director": "Charles Chaplin",
+    "country": "United States",
+    "year": "1942",
+    "link": "https://www.criterion.com/films/27565-the-gold-rush"
+  },
+  {
+    "spine": "616",
+    "title": "Shallow Grave",
+    "img": "https://s3.amazonaws.com/criterion-production/films/bedd445b42c05f40c012e6b2e3584480/R3aHnUDcITRd3bRJfmP4ceYTVVHRXU_thumbnail.jpg",
+    "director": "Danny Boyle",
+    "country": "United Kingdom",
+    "year": "1994",
+    "link": "https://www.criterion.com/films/27981-shallow-grave"
+  },
+  {
+    "spine": "617",
+    "title": "And Everything Is Going Fine",
+    "img": "https://s3.amazonaws.com/criterion-production/films/283b78c881c289756e21a5dd88c921b2/RyFBAndA3bKfYsY4sf6NO02158MiaR_thumbnail.jpg",
+    "director": "Steven Soderbergh",
+    "country": "United States",
+    "year": "2010",
+    "link": "https://www.criterion.com/films/27874-and-everything-is-going-fine"
+  },
+  {
+    "spine": "618",
+    "title": "Gray’s Anatomy",
+    "img": "https://s3.amazonaws.com/criterion-production/films/fe7df7609f7f3a1dc48f3c2d76e51036/wt7fR7XHJXY7n8XmquvUHujSrewDq6_thumbnail.jpg",
+    "director": "Steven Soderbergh",
+    "country": "United States",
+    "year": "1997",
+    "link": "https://www.criterion.com/films/28351-gray-s-anatomy"
+  },
+  {
+    "spine": "619",
+    "title": "Le Havre",
+    "img": "https://s3.amazonaws.com/criterion-production/films/727bd0170b8dca242c2454a8b3b5e90e/VDcUDb6l8jh3wbelwVZdYDnkGEoumV_thumbnail.jpg",
+    "director": "Aki Kaurismäki",
+    "country": "France",
+    "year": "2011",
+    "link": "https://www.criterion.com/films/28352-le-havre"
+  },
+  {
+    "spine": "620",
+    "title": "La promesse",
+    "img": "https://s3.amazonaws.com/criterion-production/films/fc764d56ec9302a2429c93fff187f671/aoWiKjatz40quQKrm8eFiRBdL5jfJ2_thumbnail.jpg",
+    "director": "Luc Dardenne and Jean-Pierre Dardenne",
+    "country": "Belgium",
+    "year": "1996",
+    "link": "https://www.criterion.com/films/28073-la-promesse"
+  },
+  {
+    "spine": "621",
+    "title": "Rosetta",
+    "img": "https://s3.amazonaws.com/criterion-production/films/06eeae01a332a952d5c2bb0c8c5ecc78/wB6ANgwbN29LKWFvsvDzs0NEvkfbmP_thumbnail.jpg",
+    "director": "Luc Dardenne and Jean-Pierre Dardenne",
+    "country": "Belgium",
+    "year": "1999",
+    "link": "https://www.criterion.com/films/28056-rosetta"
+  },
+  {
+    "spine": "622",
+    "title": "Weekend",
+    "img": "https://s3.amazonaws.com/criterion-production/films/d1e2ba30b364ffc12fe3df0444446f74/eZcn64qtLp6iyb6dgTe4ef9iYSvCsb_thumbnail.jpg",
+    "director": "Andrew Haigh",
+    "country": "United Kingdom",
+    "year": "2011",
+    "link": "https://www.criterion.com/films/27783-weekend"
+  },
+  {
+    "spine": "623",
+    "title": "Lonesome",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6ccd9970a004695bc2132c7edfbe8a35/Qvz32YpStw1QSbbdvZG2faTZW3ROlx_thumbnail.jpg",
+    "director": "Paul Fejos",
+    "country": "United States",
+    "year": "1928",
+    "link": "https://www.criterion.com/films/28212-lonesome"
+  },
+  {
+    "spine": "624",
+    "title": "Quadrophenia",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7e8f700a6729a78af206537eb551a54e/5G5p8VMkDMxfS2MmGDM4gNk8oqR866_thumbnail.jpg",
+    "director": "Franc Roddam",
+    "country": "United Kingdom",
+    "year": "1979",
+    "link": "https://www.criterion.com/films/27775-quadrophenia"
+  },
+  {
+    "spine": "625",
+    "title": "Eating Raoul",
+    "img": "https://s3.amazonaws.com/criterion-production/films/28d6495a960ffeca7c74c5a56d6e36e2/4FZJ4FZE0H7nPOEDoBjes4hUsAkzG1_thumbnail.jpg",
+    "director": "Paul Bartel",
+    "country": "United States",
+    "year": "1982",
+    "link": "https://www.criterion.com/films/27767-eating-raoul"
+  },
+  {
+    "spine": "626",
+    "title": "Les visiteurs du soir",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9652ba41ba3010b5ad0e0789b85764d2/JQ0SGEx168rQ7TFvY2pCLYgvwegQRP_thumbnail.jpg",
+    "director": "Marcel Carné",
+    "country": "France",
+    "year": "1942",
+    "link": "https://www.criterion.com/films/27685-les-visiteurs-du-soir"
+  },
+  {
+    "spine": "627",
+    "title": "The Game",
+    "img": "https://s3.amazonaws.com/criterion-production/films/693744d52bb74cb5166725421bb473e6/d121BfwKuez4Xs7tpGnThzfqDXpCgK_thumbnail.jpg",
+    "director": "David Fincher",
+    "country": "United States",
+    "year": "1997",
+    "link": "https://www.criterion.com/films/28058-the-game"
+  },
+  {
+    "spine": "628",
+    "title": "The Forgiveness of Blood",
+    "img": "https://s3.amazonaws.com/criterion-production/films/d22c633211642c02aece2d8f4ddc5001/zE0Gvb0ltqwpKiPJlZz3O4tXQuQJ9I_thumbnail.jpg",
+    "director": "Joshua Marston",
+    "country": "United States",
+    "year": "2011",
+    "link": "https://www.criterion.com/films/28379-the-forgiveness-of-blood"
+  },
+  {
+    "spine": "629",
+    "title": "Sunday Bloody Sunday",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8cf76f3fd4621c5440869deea498d2a4/tGES8daeIHZ3KUVbzZDVR6jvlXZS7L_thumbnail.jpg",
+    "director": "John Schlesinger",
+    "country": "United Kingdom",
+    "year": "1971",
+    "link": "https://www.criterion.com/films/28025-sunday-bloody-sunday"
+  },
+  {
+    "spine": "630",
+    "title": "Rosemary’s Baby",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4886db5d9452d2247ff729d35aa839a6/rXjMmW28vBI3WW7qEj2gO6X7NKmq6A_thumbnail.jpg",
+    "director": "Roman Polanski",
+    "country": "United States",
+    "year": "1968",
+    "link": "https://www.criterion.com/films/27927-rosemary-s-baby"
+  },
+  {
+    "spine": "701",
+    "title": "Persona",
+    "img": "https://s3.amazonaws.com/criterion-production/films/d5c135c95f58e74e2ee28cb92659bafd/DoD5SlisIFjKyi0zucupnwj2B3ADGy_thumbnail.jpg",
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "year": "1966",
+    "link": "https://www.criterion.com/films/28491-persona"
+  },
+  {
+    "spine": "702",
+    "title": "The Great Beauty",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b25a8a700e4c33e76eb53578bc5de7d6/0g1hKjX8xWZ1L1jAfhGJFvGaNrMG7O_thumbnail.jpg",
+    "director": "Paolo Sorrentino",
+    "country": "Italy",
+    "year": "2013",
+    "link": "https://www.criterion.com/films/28604-the-great-beauty"
+  },
+  {
+    "spine": "703",
+    "title": "The Freshman",
+    "img": "https://s3.amazonaws.com/criterion-production/films/cbda2b73d58c94da90d718beb2a6212f/grzsX7mRu1vFpl7oMh12x96ahSdYbj_thumbnail.jpg",
+    "director": "Sam Taylor and Fred Newmeyer",
+    "country": "United States",
+    "year": "1925",
+    "link": "https://www.criterion.com/films/28510-the-freshman"
+  },
+  {
+    "spine": "704",
+    "title": "Riot in Cell Block 11",
+    "img": "https://s3.amazonaws.com/criterion-production/films/1fff3ac634ee3a07e07e071a03276f29/aYkEYStkCF5KUvvjpd3gN3fn5XYZP6_thumbnail.jpg",
+    "director": "Don Siegel",
+    "country": "United States",
+    "year": "1954",
+    "link": "https://www.criterion.com/films/28551-riot-in-cell-block-11"
+  },
+  {
+    "spine": "705",
+    "title": "Breaking the Waves",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3617f85843446f8f78cc7ef44941a4c6/85USK613thTL36zAFZ4x1HtUfOG9NB_thumbnail.jpg",
+    "director": "Lars von Trier",
+    "country": "Denmark",
+    "year": "1996",
+    "link": "https://www.criterion.com/films/28350-breaking-the-waves"
+  },
+  {
+    "spine": "706",
+    "title": "Master of the House",
+    "img": "https://s3.amazonaws.com/criterion-production/films/55bfdb7f62206db7e4500dcdb850d17c/NxmCfGvMqbizxJmkBDsYwkUfjgJAV7_thumbnail.jpg",
+    "director": "Carl Th. Dreyer",
+    "country": "Denmark",
+    "year": "1925",
+    "link": "https://www.criterion.com/films/27804-master-of-the-house"
+  },
+  {
+    "spine": "707",
+    "title": "Il sorpasso",
+    "img": "https://s3.amazonaws.com/criterion-production/films/41d9df20fc245c4ecc12ef934533adc2/HrfTWPnllatTkm1Npqwr0o4Jslre1h_thumbnail.jpg",
+    "director": "Dino Risi",
+    "country": "Italy",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/28429-il-sorpasso"
+  },
+  {
+    "spine": "708",
+    "title": "Like Someone in Love",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a61f09cbadde324ced87c1011da0e220/XCiVzIjjNImDJLAwbQCZmXXf5k9cZ3_thumbnail.jpg",
+    "director": "Abbas Kiarostami",
+    "country": "Japan",
+    "year": "2012",
+    "link": "https://www.criterion.com/films/28616-like-someone-in-love"
+  },
+  {
+    "spine": "709",
+    "title": "Red River",
+    "img": "https://s3.amazonaws.com/criterion-production/films/85b3ab0ea3a194bb0dae99e08cecc2fa/K7VYrFevvCcOemZYFe5xpZ8MpvLDcL_thumbnail.jpg",
+    "director": "Howard Hawks",
+    "country": "United States",
+    "year": "1948",
+    "link": "https://www.criterion.com/films/28046-red-river"
+  },
+  {
+    "spine": "710",
+    "title": "Judex",
+    "img": "https://s3.amazonaws.com/criterion-production/films/257d1602c6a7da83cb3a70db7349bbaf/OXzoGLF8Og7Ffj3X2nJk35Q9nqpSa1_thumbnail.jpg",
+    "director": "Georges Franju",
+    "country": "France",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/28047-judex"
+  },
+  {
+    "spine": "711",
+    "title": "A Hard Day’s Night",
+    "img": "https://s3.amazonaws.com/criterion-production/films/bc5769c1a5d0c2822cb9ac84d12b82ab/dpplYgR6SzfCci4k6xvTWNk7wUqmon_thumbnail.jpg",
+    "director": "Richard Lester",
+    "country": "United Kingdom",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/28547-a-hard-day-s-night"
+  },
+  {
+    "spine": "712",
+    "title": "Scanners",
+    "img": "https://s3.amazonaws.com/criterion-production/films/72be64c7e0fe2adc28ae31719d0c4d88/6tMtPzuwVeGlo4qEXwaxq1vZa2eZca_thumbnail.jpg",
+    "director": "David Cronenberg",
+    "country": "Canada",
+    "year": "1981",
+    "link": "https://www.criterion.com/films/28043-scanners"
+  },
+  {
+    "spine": "713",
+    "title": "The Essential Jacques Demy",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1827-340d95a9dc4160151fad3b6ee59da757/g1SkfwOWOBrY9ryHCbnk9w9KcU5iJW_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/1055-the-essential-jacques-demy"
+  },
+  {
+    "spine": "714",
+    "title": "Lola",
+    "img": "https://s3.amazonaws.com/criterion-production/films/872aa04cd62ccc1bb5e004992ae74a0b/1ADUibfWVjZ0KUeJ3WEyXy0tVWHsAs_thumbnail.jpg",
+    "director": "Jacques Demy",
+    "country": "France",
+    "year": "1961",
+    "link": "https://www.criterion.com/films/27932-lola"
+  },
+  {
+    "spine": "715",
+    "title": "Bay of Angels",
+    "img": "https://s3.amazonaws.com/criterion-production/films/64697c8b67fd7758893dd80cb4772beb/ZOFDgtWaJXpnDlBbfUmvJLleu8mrCI_thumbnail.jpg",
+    "director": "Jacques Demy",
+    "country": "France",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/27935-bay-of-angels"
+  },
+  {
+    "spine": "716",
+    "title": "The Umbrellas of Cherbourg",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b61a11f2b66d88deede00567fd88ed0a/axyEMHs5A8ze3d06K6RgFVq6Qs6X5t_small.jpg",
+    "director": "Jacques Demy",
+    "country": "France",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/27933-the-umbrellas-of-cherbourg"
+  },
+  {
+    "spine": "717",
+    "title": "The Young Girls of Rochefort",
+    "img": "https://s3.amazonaws.com/criterion-production/films/2366a421fd7115200cd5e0e57199baa0/UuPFXlH0fFka8JfO68P6pvtLLtIFTX_thumbnail.jpg",
+    "director": "Jacques Demy",
+    "country": "France",
+    "year": "1967",
+    "link": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort"
+  },
+  {
+    "spine": "718",
+    "title": "Donkey Skin",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0d0e677a1a41ed55b91945255155099e/BC17OwaidH7P63kztUaPqQojUAAIf9_thumbnail.jpg",
+    "director": "Jacques Demy",
+    "country": "France",
+    "year": "1970",
+    "link": "https://www.criterion.com/films/28605-donkey-skin"
+  },
+  {
+    "spine": "719",
+    "title": "Une chambre en ville",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c2c0669749cfcb03444d2e95754ebe84/sfii0jErdiS5vKe52xFKqV377lDGDM_thumbnail.jpg",
+    "director": "Jacques Demy",
+    "country": "France",
+    "year": "1982",
+    "link": "https://www.criterion.com/films/27936-une-chambre-en-ville"
+  },
+  {
+    "spine": "720",
+    "title": "The Big Chill",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ace687c73ff2a89b78e73f7ed313e796/2H53DXvnDSCbuN3PlD0MhvPBtWLagJ_thumbnail.jpg",
+    "director": "Lawrence Kasdan",
+    "country": "United States",
+    "year": "1983",
+    "link": "https://www.criterion.com/films/28610-the-big-chill"
+  },
+  {
+    "spine": "721",
+    "title": "Love Streams",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ae5332041a8aa75000e2b5616f3ba6ae/9jjKsvHZbYeUyVTtHzKFb6JBlGLEo0_thumbnail.jpg",
+    "director": "John Cassavetes",
+    "country": "United States",
+    "year": "1984",
+    "link": "https://www.criterion.com/films/28032-love-streams"
+  },
+  {
+    "spine": "722",
+    "title": "Tie Me Up! Tie Me Down!",
+    "img": "https://s3.amazonaws.com/criterion-production/films/713593b3c575df0356d06d26c269d826/1ELxdmizggzUBpmIjhq8W4R3SUbLi8_thumbnail.jpg",
+    "director": "Pedro Almodóvar",
+    "country": "Spain",
+    "year": "1990",
+    "link": "https://www.criterion.com/films/28593-tie-me-up-tie-me-down"
+  },
+  {
+    "spine": "723",
+    "title": "Y tu mamá también",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5f30d2a6f02704c28b2b31a9331e1f7c/9th6Iqsdh4VJpysPfdoOhLkU6YRLB9_thumbnail.jpg",
+    "director": "Alfonso Cuarón",
+    "country": "Mexico",
+    "year": "2001",
+    "link": "https://www.criterion.com/films/28005-y-tu-mama-tambien"
+  },
+  {
+    "spine": "724",
+    "title": "All That Jazz",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8ee8b30fd8b04c0925a571a6aa83551b/AMKYaHIhWGuRsN3wZvDOZojSyG2ZaD_thumbnail.jpg",
+    "director": "Bob Fosse",
+    "country": "United States",
+    "year": "1979",
+    "link": "https://www.criterion.com/films/28561-all-that-jazz"
+  },
+  {
+    "spine": "725",
+    "title": "Eraserhead",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c834dedcc911ec34cb90bdefd315542e/nqPw4QXPXZp3mgcIFcvR9BL0mW2obB_thumbnail.jpg",
+    "director": "David Lynch",
+    "country": "United States",
+    "year": "1977",
+    "link": "https://www.criterion.com/films/28382-eraserhead"
+  },
+  {
+    "spine": "726",
+    "title": "Macbeth",
+    "img": "https://s3.amazonaws.com/criterion-production/films/cb6e050b19cc766adeaa1a780617de0b/OI42u7RUSZxrs36D0uEjtkX4m6djx3_thumbnail.jpg",
+    "director": "Roman Polanski",
+    "country": "United Kingdom",
+    "year": "1971",
+    "link": "https://www.criterion.com/films/28020-macbeth"
+  },
+  {
+    "spine": "727",
+    "title": "The Innocents",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4a2579a876453c44391878218c0ff019/BXl2PKj5T4lPvbzJpQb8AQ49rf6uBh_thumbnail.jpg",
+    "director": "Jack Clayton",
+    "country": "United States",
+    "year": "1961",
+    "link": "https://www.criterion.com/films/28569-the-innocents"
+  },
+  {
+    "spine": "728",
+    "title": "Sundays and Cybèle",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c741d1027a1f8937f4becf57f68a23dc/8Vw7Cqvm4c8vUuhhyaKWcUG6mtHdNj_thumbnail.jpg",
+    "director": "Serge Bourguignon",
+    "country": "France",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/27912-sundays-and-cybele"
+  },
+  {
+    "spine": "729",
+    "title": "The Complete Jacques Tati",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1826-74abafd9cdfb81dc87d1738ec3c99693/VZ6wkU3rR5LF2srqIn918sRLIBPOl8_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/1069-the-complete-jacques-tati"
+  },
+  {
+    "spine": "730",
+    "title": "Jour de fête",
+    "img": "https://s3.amazonaws.com/criterion-production/films/745a6288ff2c06d441fbed194e17800c/ecjXso2sbY4uoIw4cIaE6qyQQAW8hm_thumbnail.jpg",
+    "director": "Jacques Tati",
+    "country": "France",
+    "year": "1949",
+    "link": "https://www.criterion.com/films/28114-jour-de-fete"
+  },
+  {
+    "spine": "731",
+    "title": "Parade",
+    "img": "https://s3.amazonaws.com/criterion-production/films/db8e891a99aaa4df22ac1fb853c46c21/Odj5GMdBepxDD5Isuaypx1Fbc2uxrs_thumbnail.jpg",
+    "director": "Jacques Tati",
+    "country": "France",
+    "year": "1974",
+    "link": "https://www.criterion.com/films/28123-parade"
+  },
+  {
+    "spine": "801",
+    "title": "I Knew Her Well",
+    "img": "https://s3.amazonaws.com/criterion-production/films/62e398f79d4f817613884e489db8046d/IE5uw8MoxPs6597htd7IqOPG2PjoLw_thumbnail.jpg",
+    "director": "Antonio Pietrangeli",
+    "country": "Italy",
+    "year": "1965",
+    "link": "https://www.criterion.com/films/28600-i-knew-her-well"
+  },
+  {
+    "spine": "802",
+    "title": "Paris Belongs to Us",
+    "img": "https://s3.amazonaws.com/criterion-production/films/9be88b1f41e58e65f3263aa98f6b8a5a/CWLyE8FB4vRnt8fzXVabHS4xQBhVko_thumbnail.jpg",
+    "director": "Jacques Rivette",
+    "country": "France",
+    "year": "1961",
+    "link": "https://www.criterion.com/films/27724-paris-belongs-to-us"
+  },
+  {
+    "spine": "803",
+    "title": "The Manchurian Candidate",
+    "img": "https://s3.amazonaws.com/criterion-production/films/64093139506eeea73f973aee07e3f9ec/ZTvHQrwEUsJIjlvtHztiZ6g0UCH85m_thumbnail.jpg",
+    "director": "John Frankenheimer",
+    "country": "United States",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/28784-the-manchurian-candidate"
+  },
+  {
+    "spine": "804",
+    "title": "A Brighter Summer Day",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b687152dacf0e24ed0cca73e411572c7/xRGfRb80dpUeQ6IJGG8hjNwXpppDHF_thumbnail.jpg",
+    "director": "Edward Yang",
+    "country": "Taiwan",
+    "year": "1991",
+    "link": "https://www.criterion.com/films/28596-a-brighter-summer-day"
+  },
+  {
+    "spine": "805",
+    "title": "A Poem Is a Naked Person",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a550fa4c48b676f77850ceb4d292a712/7spuIUaKC3gSaUUpTQ374BtkEc5fWM_thumbnail.jpg",
+    "director": "Les Blank",
+    "country": "United States",
+    "year": "1974",
+    "link": "https://www.criterion.com/films/28755-a-poem-is-a-naked-person"
+  },
+  {
+    "spine": "806",
+    "title": "Only Angels Have Wings",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ed3f92d0278e7f4b2b1fd469625f8854/SeFfMgLKHEcnN0NYoyueCarmwztSHJ_thumbnail.jpg",
+    "director": "Howard Hawks",
+    "country": "United States",
+    "year": "1939",
+    "link": "https://www.criterion.com/films/28831-only-angels-have-wings"
+  },
+  {
+    "spine": "807",
+    "title": "Barcelona",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5edbdd9a71ff33ff8fe1c30044aff9ff/tqYv26202uYJDHcI0i3JxQRbXfJUvq_thumbnail.jpg",
+    "director": "Whit Stillman",
+    "country": "United States",
+    "year": "1994",
+    "link": "https://www.criterion.com/films/28691-barcelona"
+  },
+  {
+    "spine": "808",
+    "title": "The Kennedy Films of Robert Drew & Associates",
+    "img": "https://s3.amazonaws.com/criterion-production/films/cd4e04ca68b6bfb60fdcbb7ea6b8386f/JtYzw2kwoN2ahEB7YqQiYXBBzRbTvp_thumbnail.jpg",
+    "director": "Robert Drew",
+    "country": "United States",
+    "year": "",
+    "link": "https://www.criterion.com/films/28907-the-kennedy-films-of-robert-drew-associates"
+  },
+  {
+    "spine": "809",
+    "title": "Phoenix",
+    "img": "https://s3.amazonaws.com/criterion-production/films/dc5c87f947a50ff3c95c68c2c03330c3/aAwUGi0f7s63pOGua7Htl8DeTGARPq_thumbnail.jpg",
+    "director": "Christian Petzold",
+    "country": "Germany",
+    "year": "2014",
+    "link": "https://www.criterion.com/films/28851-phoenix"
+  },
+  {
+    "spine": "810",
+    "title": "In a Lonely Place",
+    "img": "https://s3.amazonaws.com/criterion-production/films/df93d59f964f578be1c4ed9db26df611/LHDGeFoUAUtHamDnXwv012TKgg62mL_thumbnail.jpg",
+    "director": "Nicholas Ray",
+    "country": "United States",
+    "year": "1950",
+    "link": "https://www.criterion.com/films/27908-in-a-lonely-place"
+  },
+  {
+    "spine": "811",
+    "title": "The Naked Island",
+    "img": "https://s3.amazonaws.com/criterion-production/films/2e69bb29f4d9c6e2264f2390b3aa8725/FCIx7O43E1xSgkZutfieU59ppCQwmp_thumbnail.jpg",
+    "director": "Kaneto Shindo",
+    "country": "Japan",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/27774-the-naked-island"
+  },
+  {
+    "spine": "812",
+    "title": "The Player",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0766da8ab2f5ffe38ca8fd231325b8f5/kAANocS3Pmyr9DXkivKYnVP0FH1Yjm_thumbnail.jpg",
+    "director": "Robert Altman",
+    "country": "United States",
+    "year": "1992",
+    "link": "https://www.criterion.com/films/28835-the-player"
+  },
+  {
+    "spine": "813",
+    "title": "Wim Wenders: The Road Trilogy",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1773-3e4219a9f27e8402b68c2d685584258a/qVsCeiFh9PYaWkZhYXFAMnpoAI0MUF_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/1186-wim-wenders-the-road-trilogy"
+  },
+  {
+    "spine": "814",
+    "title": "Alice in the Cities",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4c937e1a2f214fa64d62211753e5f492/k2GNCMB1LPMtr7Dlh3PdIo9jHUFxD1_thumbnail.jpg",
+    "director": "Wim Wenders",
+    "country": "Germany",
+    "year": "1974",
+    "link": "https://www.criterion.com/films/27717-alice-in-the-cities"
+  },
+  {
+    "spine": "815",
+    "title": "Wrong Move",
+    "img": "https://s3.amazonaws.com/criterion-production/films/2a6e66f164ce8c878e2854fb4bf18eea/53yqUVmZXKZMw5AmKwBr2OoIdQz2nV_thumbnail.jpg",
+    "director": "Wim Wenders",
+    "country": "Germany",
+    "year": "1975",
+    "link": "https://www.criterion.com/films/28768-wrong-move"
+  },
+  {
+    "spine": "816",
+    "title": "Kings of the Road",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c2180287589c17c78a4d7bf654cc5631/sSn64JHNlglUduI96xCOCTeC1QAO0z_thumbnail.jpg",
+    "director": "Wim Wenders",
+    "country": "Germany",
+    "year": "1976",
+    "link": "https://www.criterion.com/films/28762-kings-of-the-road"
+  },
+  {
+    "spine": "817",
+    "title": "Le amiche",
+    "img": "https://s3.amazonaws.com/criterion-production/films/58cac693035172b69c7684a7ae929829/dCY15ZqPrfGXF5TJsvMHuivIBO2sEg_thumbnail.jpg",
+    "director": "Michelangelo Antonioni",
+    "country": "Italy",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/28632-le-amiche"
+  },
+  {
+    "spine": "818",
+    "title": "La chienne",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0fe5a69abe937a4ab3e902909c6b93e2/UKZWKQ3CoGxa5ulN0JWLE2th5iMU1Q_thumbnail.jpg",
+    "director": "Jean Renoir",
+    "country": "France",
+    "year": "1931",
+    "link": "https://www.criterion.com/films/28393-la-chienne"
+  },
+  {
+    "spine": "819",
+    "title": "Here Comes Mr. Jordan",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3c2f9f202a6b57f2b444b424209ebe28/c5ox5KYrMRnqR8Wqw4VC8Zmn7pha4X_thumbnail.jpg",
+    "director": "Alexander Hall",
+    "country": "United States",
+    "year": "1941",
+    "link": "https://www.criterion.com/films/27902-here-comes-mr-jordan"
+  },
+  {
+    "spine": "820",
+    "title": "Fantastic Planet",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3b384c601af6defbccd31020fb482b46/d5g8lS9xQQQyGpGaTma0HnkBycZvYo_thumbnail.jpg",
+    "director": "René Laloux",
+    "country": "France",
+    "year": "1973",
+    "link": "https://www.criterion.com/films/28636-fantastic-planet"
+  },
+  {
+    "spine": "821",
+    "title": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0a9d8cafec1031c98436007b77553d6f/8RnJTFRJr7Ho5oNBlduI3C9erCpY1t_thumbnail.jpg",
+    "director": "Stanley Kubrick",
+    "country": "United States",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/28822-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb"
+  },
+  {
+    "spine": "822",
+    "title": "Clouds of Sils Maria",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a4d5a52f90495a6e7bb0222c678a2bf3/a00cD1RbIsCUwuf0DZONUdpVpq73Ta_thumbnail.jpg",
+    "director": "Olivier Assayas",
+    "country": "France",
+    "year": "2014",
+    "link": "https://www.criterion.com/films/28748-clouds-of-sils-maria"
+  },
+  {
+    "spine": "823",
+    "title": "The In-Laws",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b5ac2fdb3ed62e6360e1d4b1838e2f1f/cz4yPou8hsBHkiA5ShxOjZ8bCxAcRI_thumbnail.jpg",
+    "director": "Arthur Hiller",
+    "country": "United States",
+    "year": "1979",
+    "link": "https://www.criterion.com/films/28707-the-in-laws"
+  },
+  {
+    "spine": "824",
+    "title": "Muriel, or The Time of Return",
+    "img": "https://s3.amazonaws.com/criterion-production/films/023f57bc8ab31d47d9f2c5f4817cdc0f/Moor4vKnDa6gTY3zttgNbtygOLbWVA_thumbnail.jpg",
+    "director": "Alain Resnais",
+    "country": "France",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/28635-muriel-or-the-time-of-return"
+  },
+  {
+    "spine": "825",
+    "title": "A Touch of Zen",
+    "img": "https://s3.amazonaws.com/criterion-production/films/58e3f9ca227dd46e198b81b8a03229a0/nzrMRtpgt0wCrxI2HNwKb1d1XGi93S_thumbnail.jpg",
+    "director": "King Hu",
+    "country": "Taiwan",
+    "year": "1971",
+    "link": "https://www.criterion.com/films/28791-a-touch-of-zen"
+  },
+  {
+    "spine": "826",
+    "title": "The New World",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ee06eb98a3f4ddfae7322b95916708d6/hIa0cGCGSYfRfpArTPaFotv3ycmxc8_thumbnail.jpg",
+    "director": "Terrence Malick",
+    "country": "United States",
+    "year": "2005",
+    "link": "https://www.criterion.com/films/28713-the-new-world"
+  },
+  {
+    "spine": "827",
+    "title": "McCabe & Mrs. Miller",
+    "img": "https://s3.amazonaws.com/criterion-production/films/420be82a58f9b0106802277a8449e730/CEyKsT4U8sOfAJwFdXmYVbLIHshlUU_thumbnail.jpg",
+    "director": "Robert Altman",
+    "country": "United States",
+    "year": "1971",
+    "link": "https://www.criterion.com/films/28712-mccabe-mrs-miller"
+  },
+  {
+    "spine": "828",
+    "title": "Ingrid Bergman: In Her Own Words",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e732b8e6dcc290423dc3b347d90adb86/YS7c8q5YqFduubJtYRVVoVuWf774oA_thumbnail.jpg",
+    "director": "Stig Björkman",
+    "country": "Sweden",
+    "year": "2015",
+    "link": "https://www.criterion.com/films/28910-ingrid-bergman-in-her-own-words"
+  },
+  {
+    "spine": "829",
+    "title": "A Taste of Honey",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7bfaa9a3f92e2fc8b4cc5f8b3a72fcd4/sAyvt3qLGVUlBaHDDLG1vMF24HKrUk_thumbnail.jpg",
+    "director": "Tony Richardson",
+    "country": "United Kingdom",
+    "year": "1961",
+    "link": "https://www.criterion.com/films/28734-a-taste-of-honey"
+  },
+  {
+    "spine": "830",
+    "title": "Chimes at Midnight",
+    "img": "https://s3.amazonaws.com/criterion-production/films/1412d8b36b09381acde385c859f42cac/vVWYoiTPW7D4hf0mZN6yOsJEJ3wXsD_thumbnail.jpg",
+    "director": "Orson Welles",
+    "country": "Spain",
+    "year": "1966",
+    "link": "https://www.criterion.com/films/28756-chimes-at-midnight"
+  },
+  {
+    "spine": "831",
+    "title": "The Immortal Story",
+    "img": "https://s3.amazonaws.com/criterion-production/films/fa8210c2fd10f3c391f04bb6f851fb24/U450IdSyMxXSVbWgSgCreCuhEeMs56_thumbnail.jpg",
+    "director": "Orson Welles",
+    "country": "France",
+    "year": "1968",
+    "link": "https://www.criterion.com/films/27672-the-immortal-story"
+  },
+  {
+    "spine": "901",
+    "title": "The Philadelphia Story",
+    "img": "https://s3.amazonaws.com/criterion-production/films/73a39f7f730d789ad75a85052fcb79ec/ctkavyALJzOHlnjyxyKzE5AyYFTLTJ_thumbnail.jpg",
+    "director": "George Cukor",
+    "country": "United States",
+    "year": "1940",
+    "link": "https://www.criterion.com/films/29029-the-philadelphia-story"
+  },
+  {
+    "spine": "902",
+    "title": "Desert Hearts",
+    "img": "https://s3.amazonaws.com/criterion-production/films/03324a6531ef2d5b59362c4c1f526f8d/W9BXrsLXnGb3dsEG98WrRJ9UuJHSWx_thumbnail.jpg",
+    "director": "Donna Deitch",
+    "country": "United States",
+    "year": "1985",
+    "link": "https://www.criterion.com/films/29139-desert-hearts"
+  },
+  {
+    "spine": "903",
+    "title": "Jabberwocky",
+    "img": "https://s3.amazonaws.com/criterion-production/films/dbb71ee8b6732b91a8668e1258bbb9cd/MrSROYTLAWW1jJ3YHARmvs2maZ3I2x_thumbnail.jpg",
+    "director": "Terry Gilliam",
+    "country": "United Kingdom",
+    "year": "1977",
+    "link": "https://www.criterion.com/films/29266-jabberwocky"
+  },
+  {
+    "spine": "904",
+    "title": "Election",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a75129341a5da1a31ed6cb4617cd7d2f/3X4bhh4Dgc2xO8k6iNMMtpUfFrFi8w_thumbnail.jpg",
+    "director": "Alexander Payne",
+    "country": "United States",
+    "year": "1999",
+    "link": "https://www.criterion.com/films/29335-election"
+  },
+  {
+    "spine": "905",
+    "title": "The Breakfast Club",
+    "img": "https://s3.amazonaws.com/criterion-production/films/cdbb8e7c29813e937c4a6f26bbca61d0/DtJrK6N49BdEDQe2RM0mFCcesd2vbN_thumbnail.jpg",
+    "director": "John Hughes",
+    "country": "United States",
+    "year": "1985",
+    "link": "https://www.criterion.com/films/29272-the-breakfast-club"
+  },
+  {
+    "spine": "906",
+    "title": "I, Daniel Blake",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6b722451de006332ddff04c5c1d94592/BGYAgIdGr7LLD0MXA65T2bFNQKpNSX_thumbnail.jpg",
+    "director": "Ken Loach",
+    "country": "United Kingdom",
+    "year": "2016",
+    "link": "https://www.criterion.com/films/29357-i-daniel-blake"
+  },
+  {
+    "spine": "907",
+    "title": "Westfront 1918",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7d539514e0694356b704de0bd0985ddc/PDCF8VbHXZoKJ3Lhx3IvzOzNlg83oB_thumbnail.jpg",
+    "director": "G. W. Pabst",
+    "country": "Germany",
+    "year": "1930",
+    "link": "https://www.criterion.com/films/28137-westfront-1918"
+  },
+  {
+    "spine": "908",
+    "title": "Kameradschaft",
+    "img": "https://s3.amazonaws.com/criterion-production/films/01f2b09b21d5479965b2b93422ba1072/tUKPob5t1DjOrGRVmJEEfRaalbiOzy_thumbnail.jpg",
+    "director": "G. W. Pabst",
+    "country": "Germany",
+    "year": "1931",
+    "link": "https://www.criterion.com/films/28184-kameradschaft"
+  },
+  {
+    "spine": "909",
+    "title": "Night of the Living Dead",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5d825de608ea6993b42be3c972bab02f/O4mn7lXmAaCzdLtUmSqBHAKHJBQW3P_thumbnail.jpg",
+    "director": "George A. Romero",
+    "country": "United States",
+    "year": "1968",
+    "link": "https://www.criterion.com/films/29331-night-of-the-living-dead"
+  },
+  {
+    "spine": "910",
+    "title": "Tom Jones",
+    "img": "https://s3.amazonaws.com/criterion-production/films/78fbfa2a7123cbcce483bb5dcb4cca4f/6FwvYWuz6xnPFlvRp09yb9QhzTIIu7_thumbnail.jpg",
+    "director": "Tony Richardson",
+    "country": "United Kingdom",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/28736-tom-jones"
+  },
+  {
+    "spine": "911",
+    "title": "The Hero",
+    "img": "https://s3.amazonaws.com/criterion-production/films/714a944044047536ba84650e72279558/ng8FodQqzi3lNTIORgaOy4HgxDqmbm_thumbnail.jpg",
+    "director": "Satyajit Ray",
+    "country": "India",
+    "year": "1966",
+    "link": "https://www.criterion.com/films/28449-the-hero"
+  },
+  {
+    "spine": "912",
+    "title": "An Actor’s Revenge",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4b189bbc4839b45ecfee6d8546d303e6/KaW2t9UP1dYbpFxJDSlXEbSApZ8SaV_thumbnail.jpg",
+    "director": "Kon Ichikawa",
+    "country": "Japan",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/28899-an-actor-s-revenge"
+  },
+  {
+    "spine": "913",
+    "title": "The Age of Innocence",
+    "img": "https://s3.amazonaws.com/criterion-production/films/23b95546eb76fe0bd9c69678c5130f60/Gicsoj0cO0g4i7a78Otic6zVhZKTv7_thumbnail.jpg",
+    "director": "Martin Scorsese",
+    "country": "United States",
+    "year": "1993",
+    "link": "https://www.criterion.com/films/28834-the-age-of-innocence"
+  },
+  {
+    "spine": "914",
+    "title": "Baal",
+    "img": "https://s3.amazonaws.com/criterion-production/films/eae2794b63eb565a9518d0ddc6dc4800/MfEB5BHM5873COrnchiYFPxygZYNP8_thumbnail.jpg",
+    "director": "Volker Schlöndorff",
+    "country": "West Germany",
+    "year": "1970",
+    "link": "https://www.criterion.com/films/29060-baal"
+  },
+  {
+    "spine": "915",
+    "title": "King of Jazz",
+    "img": "https://s3.amazonaws.com/criterion-production/films/15bb540b38dbdaa023601e7456c3eebe/J24VDct0pXh868DYmPMO0I2j9ucr1N_thumbnail.jpg",
+    "director": "John Murray Anderson",
+    "country": "United States",
+    "year": "1930",
+    "link": "https://www.criterion.com/films/29389-king-of-jazz"
+  },
+  {
+    "spine": "916",
+    "title": "Women in Love",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7451ad8664e892cb9267d890a59b2158/Y63fOFkLXE5VXEUnbLcGZMqYfU5NRL_thumbnail.jpg",
+    "director": "Ken Russell",
+    "country": "United Kingdom",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/28688-women-in-love"
+  },
+  {
+    "spine": "917",
+    "title": "The Awful Truth",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c6405a3dc564179df63c65d55066a4ae/9eQtQWCuRD4Bz04ICaKTd207nco97Z_thumbnail.jpg",
+    "director": "Leo McCarey",
+    "country": "United States",
+    "year": "1937",
+    "link": "https://www.criterion.com/films/27904-the-awful-truth"
+  },
+  {
+    "spine": "918",
+    "title": "The Color of Pomegranates",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0972e94eb6deb7848c417d7ac83c1efb/thoVlhVudcPZcmdyX8qfGrIFKFByDg_thumbnail.jpg",
+    "director": "Sergei Parajanov",
+    "country": "Soviet Union",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/29219-the-color-of-pomegranates"
+  },
+  {
+    "spine": "919",
+    "title": "Dead Man",
+    "img": "https://s3.amazonaws.com/criterion-production/films/beaaa28a3756336344887b5a2629deed/NAxda83A99jF4P0h2wKJ2yk7wyJfW8_thumbnail.jpg",
+    "director": "Jim Jarmusch",
+    "country": "United States",
+    "year": "1995",
+    "link": "https://www.criterion.com/films/29064-dead-man"
+  },
+  {
+    "spine": "920",
+    "title": "The Virgin Suicides",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7d8952a7769fb4b0cd20d09b109f2c2a/rIl2lyPRobqqYXVt3x3eF9XarFoc1J_thumbnail.jpg",
+    "director": "Sofia Coppola",
+    "country": "United States",
+    "year": "1999",
+    "link": "https://www.criterion.com/films/29336-the-virgin-suicides"
+  },
+  {
+    "spine": "921",
+    "title": "Moonrise",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6362b26b7e32f7f6df2575639bb1a03f/jvFUhqQ0Pq2aKzvZpNdsaCQhK8YOjo_thumbnail.jpg",
+    "director": "Frank Borzage",
+    "country": "United States",
+    "year": "1948",
+    "link": "https://www.criterion.com/films/28550-moonrise"
+  },
+  {
+    "spine": "922",
+    "title": "The Other Side of Hope",
+    "img": "https://s3.amazonaws.com/criterion-production/films/bb7a6b8c82556fa885e56f7977c1b52d/nEZYgB9dOznIjVMhAPzZcTqbTrqgZL_thumbnail.jpg",
+    "director": "Aki Kaurismäki",
+    "country": "Finland",
+    "year": "2017",
+    "link": "https://www.criterion.com/films/29253-the-other-side-of-hope"
+  },
+  {
+    "spine": "923",
+    "title": "Beyond the Hills",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7e53562a1bc3ae00237eef595c1403a8/wIChDWmCVilmqMKIwe5NNXjw3cVGSA_thumbnail.jpg",
+    "director": "Cristian Mungiu",
+    "country": "Romania",
+    "year": "2012",
+    "link": "https://www.criterion.com/films/28618-beyond-the-hills"
+  },
+  {
+    "spine": "924",
+    "title": "Graduation",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c9145bb4bfe7ea206fb22d923bb14c5f/CkfZqo0bw9C0qo84byxkWdKPbFteoQ_thumbnail.jpg",
+    "director": "Cristian Mungiu",
+    "country": "Romania",
+    "year": "2016",
+    "link": "https://www.criterion.com/films/29414-graduation"
+  },
+  {
+    "spine": "925",
+    "title": "Midnight Cowboy",
+    "img": "https://s3.amazonaws.com/criterion-production/films/85ebb0e5781f605179432d071eb3b340/Ayry8QwcAWWRZhyaMkSpzG3TSZ9JoJ_thumbnail.jpg",
+    "director": "John Schlesinger",
+    "country": "United States",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/29369-midnight-cowboy"
+  },
+  {
+    "spine": "926",
+    "title": "Manila in the Claws of Light",
+    "img": "https://s3.amazonaws.com/criterion-production/films/194827b27de9e6f270c3f62a940755a4/mZ78UUAcVc0c4hTbCJQeFC4V1vvVd1_thumbnail.jpg",
+    "director": "Lino Brocka",
+    "country": "Philippines",
+    "year": "1975",
+    "link": "https://www.criterion.com/films/29221-manila-in-the-claws-of-light"
+  },
+  {
+    "spine": "927",
+    "title": "El Sur",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c7465a13baf79a966e1888bd8a317253/W6Q2JfvoS7SwnAIpPlpSD141Tny57t_thumbnail.jpg",
+    "director": "Víctor Erice",
+    "country": "Spain",
+    "year": "1983",
+    "link": "https://www.criterion.com/films/27745-el-sur"
+  },
+  {
+    "spine": "928",
+    "title": "Bowling for Columbine",
+    "img": "https://s3.amazonaws.com/criterion-production/films/78a86bc12fbed832f0b341609a22fa52/lun1ptGstEhxOhmc24pORDXEVkN2Ve_thumbnail.jpg",
+    "director": "Michael Moore",
+    "country": "United States",
+    "year": "2002",
+    "link": "https://www.criterion.com/films/28785-bowling-for-columbine"
+  },
+  {
+    "spine": "929",
+    "title": "Female Trouble",
+    "img": "https://s3.amazonaws.com/criterion-production/films/158358e5a3c887eb8da3f2fd7c88ca32/M2SseBDqHqhbAX1r730ezWGJFjcTxE_thumbnail.jpg",
+    "director": "John Waters",
+    "country": "United States",
+    "year": "1974",
+    "link": "https://www.criterion.com/films/28704-female-trouble"
+  },
+  {
+    "spine": "930",
+    "title": "Dietrich & von Sternberg in Hollywood",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1913-aa161a0f125c18e184c759f4e6fa4d86/ne8EBMDiHqGQ5vJDvaBUV6wzuwbT3d_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/1329-dietrich-von-sternberg-in-hollywood"
+  },
+  {
+    "spine": "1001",
+    "title": "The Daytrippers",
+    "img": "https://s3.amazonaws.com/criterion-production/films/970a3900ccacf0352f032e35c13549ed/un35TUcekpTvbbRD0VsNDeM3k57TjF_thumbnail.jpg",
+    "director": "Greg Mottola",
+    "country": "Canada",
+    "year": "1996",
+    "link": "https://www.criterion.com/films/29464-the-daytrippers"
+  },
+  {
+    "spine": "1002",
+    "title": "Betty Blue",
+    "img": "https://s3.amazonaws.com/criterion-production/films/374aba96c6d088f549db6bfdfcfdc952/NXvOjh0NFLCxBARIs0E88NEgGKbUg0_thumbnail.jpg",
+    "director": "Jean-Jacques Beineix",
+    "country": "France",
+    "year": "1986",
+    "link": "https://www.criterion.com/films/29079-betty-blue"
+  },
+  {
+    "spine": "1003",
+    "title": "All About Eve",
+    "img": "https://s3.amazonaws.com/criterion-production/films/43fd6f6135680ac83e75a69d9e94b7e4/SdDSAIemjQdIjmIByE6UI1xwCbXz9C_thumbnail.jpg",
+    "director": "Joseph L. Mankiewicz",
+    "country": "United States",
+    "year": "1950",
+    "link": "https://www.criterion.com/films/29596-all-about-eve"
+  },
+  {
+    "spine": "1004",
+    "title": "Now, Voyager",
+    "img": "https://s3.amazonaws.com/criterion-production/films/31b8ddf4b7224294e1c323968e5edcae/ZnvrX36fSxtqKKg2do5VnPKSusWgp1_thumbnail.jpg",
+    "director": "Irving Rapper",
+    "country": "United States",
+    "year": "1942",
+    "link": "https://www.criterion.com/films/29026-now-voyager"
+  },
+  {
+    "spine": "1005",
+    "title": "Cold War",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8e408093cb123fc9125296bc8070af93/tT6PfuYCu8xygovqNWWfkBbAo0RrDU_thumbnail.jpg",
+    "director": "Paweł Pawlikowski",
+    "country": "Poland",
+    "year": "2018",
+    "link": "https://www.criterion.com/films/30104-cold-war"
+  },
+  {
+    "spine": "1006",
+    "title": "The Story of Temple Drake",
+    "img": "https://s3.amazonaws.com/criterion-production/films/45d498261c956d33aa5aac03541ecd51/3Y78U3wFkBlyFGe5Gdirhu5m6DaIAI_thumbnail.jpg",
+    "director": "Stephen Roberts",
+    "country": "United States",
+    "year": "1933",
+    "link": "https://www.criterion.com/films/28575-the-story-of-temple-drake"
+  },
+  {
+    "spine": "1007",
+    "title": "Until the End of the World",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b3f96aa9a8f3b101c3b15d898e927e77/e4OaI1MBzo1RV7HiR5L3cIkTK7gdjY_thumbnail.jpg",
+    "director": "Wim Wenders",
+    "country": "Germany",
+    "year": "1991",
+    "link": "https://www.criterion.com/films/28767-until-the-end-of-the-world"
+  },
+  {
+    "spine": "1008",
+    "title": "Old Joy",
+    "img": "https://s3.amazonaws.com/criterion-production/films/eefb96ac948c689de4a56803a285cefe/9ifQI92S6E9FgNzpLOJg1vrvHikjqx_thumbnail.jpg",
+    "director": "Kelly Reichardt",
+    "country": "United States",
+    "year": "2006",
+    "link": "https://www.criterion.com/films/29062-old-joy"
+  },
+  {
+    "spine": "1009",
+    "title": "Holiday",
+    "img": "https://s3.amazonaws.com/criterion-production/films/05f931fc02d365516a299774f13732fb/w0FMh8OYztwqUX6hYASaLhdr7lmeXL_thumbnail.jpg",
+    "director": "George Cukor",
+    "country": "United States",
+    "year": "1938",
+    "link": "https://www.criterion.com/films/28829-holiday"
+  },
+  {
+    "spine": "1010",
+    "title": "Le petit soldat",
+    "img": "https://s3.amazonaws.com/criterion-production/films/115ae4fd0c45ee3c0f4e8197fd03460b/fjf2hnzHjxa8CGOapu7tdA2W8EhLAq_thumbnail.jpg",
+    "director": "Jean-Luc Godard",
+    "country": "France",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/28093-le-petit-soldat"
+  },
+  {
+    "spine": "1011",
+    "title": "Fail Safe",
+    "img": "https://s3.amazonaws.com/criterion-production/films/697714c5f61884f16239ef755f14c843/fa4svULX2NfofX0swJvrLbMpl002Dq_thumbnail.jpg",
+    "director": "Sidney Lumet",
+    "country": "United States",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/28825-fail-safe"
+  },
+  {
+    "spine": "1012",
+    "title": "All About My Mother",
+    "img": "https://s3.amazonaws.com/criterion-production/films/081d7c31ab52d99598396ad232926653/psy2aK64LWq4FLcQRLx86tC4MeIcdm_thumbnail.jpg",
+    "director": "Pedro Almodóvar",
+    "country": "Spain",
+    "year": "1999",
+    "link": "https://www.criterion.com/films/29569-all-about-my-mother"
+  },
+  {
+    "spine": "1013",
+    "title": "Teorema",
+    "img": "https://s3.amazonaws.com/criterion-production/films/56166014193fe00f622115685dba2487/g6y2g4zZHy2J3caJizYcgZBfh7FnQ9_thumbnail.jpg",
+    "director": "Pier Paolo Pasolini",
+    "country": "Italy",
+    "year": "1968",
+    "link": "https://www.criterion.com/films/28660-teorema"
+  },
+  {
+    "spine": "1014",
+    "title": "Roma",
+    "img": "https://s3.amazonaws.com/criterion-production/films/bc349204816d212fabd9b71524763b75/BMnwff4YpeT4kAkBsBwD6PGbdffoL3_thumbnail.jpg",
+    "director": "Alfonso Cuarón",
+    "country": "United States",
+    "year": "2018",
+    "link": "https://www.criterion.com/films/30124-roma"
+  },
+  {
+    "spine": "1015",
+    "title": "Journey to the Beginning of Time",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ad03cbebd46eb9fe84b3f46eef4ac390/tePjrgbiCmWydhyXjET4PDD6YeOcLW_thumbnail.jpg",
+    "director": "Karel Zeman",
+    "country": "Czechoslovakia",
+    "year": "1955",
+    "link": "https://www.criterion.com/films/30226-journey-to-the-beginning-of-time"
+  },
+  {
+    "spine": "1016",
+    "title": "Invention for Destruction",
+    "img": "https://s3.amazonaws.com/criterion-production/films/dc8c1ed443ce9106c76314d9d20cf6eb/RRPupI0IXRgkKBoZYvh5c5CjAwBpxL_thumbnail.jpg",
+    "director": "Karel Zeman",
+    "country": "Czechoslovakia",
+    "year": "1958",
+    "link": "https://www.criterion.com/films/29654-invention-for-destruction"
+  },
+  {
+    "spine": "1017",
+    "title": "The Fabulous Baron Munchausen",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3e8f9fa6fb75a8fdbd6c364c19d86478/eBLoDljuSlMkZLc1re6fnLYFzAYmtQ_thumbnail.jpg",
+    "director": "Karel Zeman",
+    "country": "Czechoslovakia",
+    "year": "1962",
+    "link": "https://www.criterion.com/films/29652-the-fabulous-baron-munchausen"
+  },
+  {
+    "spine": "1018",
+    "title": "Paris Is Burning",
+    "img": "https://s3.amazonaws.com/criterion-production/films/db018ea632f4576c8eb5e168bbf244a0/LSoJP2f4HIWyY4pBAuk8lnOO82jBCv_thumbnail.jpg",
+    "director": "Jennie Livingston",
+    "country": "United States",
+    "year": "1990",
+    "link": "https://www.criterion.com/films/29647-paris-is-burning"
+  },
+  {
+    "spine": "1019",
+    "title": "Bamboozled",
+    "img": "https://s3.amazonaws.com/criterion-production/films/621ace9afe23a305cd3900a50b0ee678/s48ebrkllPeu1rDdXBVnzKQ9ZRR7u4_thumbnail.jpg",
+    "director": "Spike Lee",
+    "country": "United States",
+    "year": "2000",
+    "link": "https://www.criterion.com/films/29007-bamboozled"
+  },
+  {
+    "spine": "1020",
+    "title": "Leave Her to Heaven",
+    "img": "https://s3.amazonaws.com/criterion-production/films/cd887a21f36c85dfc187688a6c075c54/8uvrgmo6h0KZ9XBVk13OiDIVW7R2vc_thumbnail.jpg",
+    "director": "John M. Stahl",
+    "country": "United States",
+    "year": "1945",
+    "link": "https://www.criterion.com/films/29602-leave-her-to-heaven"
+  },
+  {
+    "spine": "1021",
+    "title": "Show Boat",
+    "img": "https://s3.amazonaws.com/criterion-production/films/56c15770f21d506909cd9d6b510b0a48/L8eD9ereAY71I07uEdI3FcfpnJ94d2_thumbnail.jpg",
+    "director": "James Whale",
+    "country": "United States",
+    "year": "1936",
+    "link": "https://www.criterion.com/films/29035-show-boat"
+  },
+  {
+    "spine": "1022",
+    "title": "The Prince of Tides",
+    "img": "https://s3.amazonaws.com/criterion-production/films/03f92b28b483c87990e64d3e8d65bb33/6U2WKHdRmzYqcnAqo95rDMT3GJ5Q2u_thumbnail.jpg",
+    "director": "Barbra Streisand",
+    "country": "United States",
+    "year": "1991",
+    "link": "https://www.criterion.com/films/29571-the-prince-of-tides"
+  },
+  {
+    "spine": "1023",
+    "title": "The Cremator",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5246b76aa8e94e9971d99fcab8997538/OI5kIjaVjnBkyEOTh31eosI8bio5yq_thumbnail.jpg",
+    "director": "Juraj Herz",
+    "country": "Czechoslovakia",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/27853-the-cremator"
+  },
+  {
+    "spine": "1024",
+    "title": "Destry Rides Again",
+    "img": "https://s3.amazonaws.com/criterion-production/films/36fa49e72f1b22eb2da8666d3df12704/NYApshBAzWWbOpps4xtjB1L9La7xTa_thumbnail.jpg",
+    "director": "George Marshall",
+    "country": "United States",
+    "year": "1939",
+    "link": "https://www.criterion.com/films/29002-destry-rides-again"
+  },
+  {
+    "spine": "1025",
+    "title": "The Grand Budapest Hotel",
+    "img": "https://s3.amazonaws.com/criterion-production/films/7dc949416ad00cd22a48dca569e5324e/k1cKiOeNtfh2R2jfqrxSMCOiuW3uwG_thumbnail.jpg",
+    "director": "Wes Anderson",
+    "country": "United States",
+    "year": "2014",
+    "link": "https://www.criterion.com/films/29601-the-grand-budapest-hotel"
+  },
+  {
+    "spine": "1026",
+    "title": "Me and You and Everyone We Know",
+    "img": "https://s3.amazonaws.com/criterion-production/films/433136d75ef46cccd37a4bef02982ff0/RosnfpzufFCkgi4EcWSnvr8QRNyoPn_thumbnail.jpg",
+    "director": "Miranda July",
+    "country": "United States",
+    "year": "2005",
+    "link": "https://www.criterion.com/films/29112-me-and-you-and-everyone-we-know"
+  },
+  {
+    "spine": "1027",
+    "title": "The Great Escape",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5a8da68d2d614bc2841f3133a9d1e16d/bPuyXlWNoUAC4cbWbL1Z08Q48keUKn_thumbnail.jpg",
+    "director": "John Sturges",
+    "country": "United States",
+    "year": "1963",
+    "link": "https://www.criterion.com/films/29149-the-great-escape"
+  },
+  {
+    "spine": "1028",
+    "title": "Dance, Girl, Dance",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6da54fc39bd52357450eea02a1d893fb/RIXjigxRY0Ut8RS64xHzhy6XSw2fX9_thumbnail.jpg",
+    "director": "Dorothy Arzner",
+    "country": "United States",
+    "year": "1940",
+    "link": "https://www.criterion.com/films/29633-dance-girl-dance"
+  },
+  {
+    "spine": "1029",
+    "title": "Husbands",
+    "img": "https://s3.amazonaws.com/criterion-production/films/78923bc7cdf6f313c2f69c4869e41bcd/jjWhLAVSs3yMPTCWDB7eRonBYK68Rv_thumbnail.jpg",
+    "director": "John Cassavetes",
+    "country": "United States",
+    "year": "1970",
+    "link": "https://www.criterion.com/films/28827-husbands"
+  },
+  {
+    "spine": "1030",
+    "title": "Scorsese Shorts",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f88e619547e1036d2b7595feb1688281/38xYUK39YImmWPoyi8XjcukL09hDwU_thumbnail.jpg",
+    "director": "Martin Scorsese",
+    "country": "United States",
+    "year": "",
+    "link": "https://www.criterion.com/films/30616-scorsese-shorts"
+  },
+  {
+    "spine": "1031",
+    "title": "Wildlife",
+    "img": "https://s3.amazonaws.com/criterion-production/films/597124f416f05a040868b747ef5dbb39/Yg8FHf5KpTrN5RJ01e73Y5kuxWAI3m_thumbnail.jpg",
+    "director": "Paul Dano",
+    "country": "United States",
+    "year": "2018",
+    "link": "https://www.criterion.com/films/29644-wildlife"
+  },
+  {
+    "spine": "1101",
+    "title": "Uncut Gems",
+    "img": "https://s3.amazonaws.com/criterion-production/films/1b125193ab0bfdd4f4d172eddbea4955/Ay0VFJu3fFrYfuKzMA34ZbFYVnLT0R_thumbnail.jpg",
+    "director": "Josh Safdie and Benny Safdie",
+    "country": "United States",
+    "year": "2019",
+    "link": "https://www.criterion.com/films/31917-uncut-gems"
+  },
+  {
+    "spine": "1102",
+    "title": "Devi",
+    "img": "https://s3.amazonaws.com/criterion-production/films/41a4603b08ce15c6034852e8f4e43427/xNsamgU90AgSxCEEf6WJUqadV2dfxm_thumbnail.jpg",
+    "director": "Satyajit Ray",
+    "country": "India",
+    "year": "1960",
+    "link": "https://www.criterion.com/films/27906-devi"
+  },
+  {
+    "spine": "1103",
+    "title": "Once Upon a Time in China: The Complete Films",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/1987-beb71f216e96d1ff2d0f8231f5b8b975/44LVkvftLRcr5paF4enJfBFTe5mI2c_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/5026-once-upon-a-time-in-china-the-complete-films"
+  },
+  {
+    "spine": "1104",
+    "title": "Citizen Kane",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5e58f4effd7ec074436c3cefccc76e6f/Yp6qC4kg4JLjjqcNdK8RAVM8eK2qnR_thumbnail.jpg",
+    "director": "Orson Welles",
+    "country": "United States",
+    "year": "1941",
+    "link": "https://www.criterion.com/films/32250-citizen-kane"
+  },
+  {
+    "spine": "1105",
+    "title": "Menace II Society",
+    "img": "https://s3.amazonaws.com/criterion-production/films/75010780ef0a9ccbdad848daa6019c69/xwHKNInOOeEk23oh2D3AWtoc9nMZRb_thumbnail.jpg",
+    "director": "Albert Hughes and Allen Hughes",
+    "country": "United States",
+    "year": "1993",
+    "link": "https://www.criterion.com/films/31502-menace-ii-society"
+  },
+  {
+    "spine": "1106",
+    "title": "One Night in Miami . . .",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6facf4e6621b173ff79555f9eddb9f27/8g5alAbUvCYJg7YGwVq1B3KHU7OrN4_thumbnail.jpg",
+    "director": "Regina King",
+    "country": "United States",
+    "year": "2020",
+    "link": "https://www.criterion.com/films/32171-one-night-in-miami"
+  },
+  {
+    "spine": "1107",
+    "title": "The Learning Tree",
+    "img": "https://s3.amazonaws.com/criterion-production/films/3db322ea4b19b675db846798b61acd9b/WwxiWGS1GCIXXC2gRm8AorDFKWrpow_thumbnail.jpg",
+    "director": "Gordon Parks",
+    "country": "United States",
+    "year": "1969",
+    "link": "https://www.criterion.com/films/29636-the-learning-tree"
+  },
+  {
+    "spine": "1108",
+    "title": "The Celebration",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e56120a376fa7c47fb6254133f773b91/YeEKXYwuxhG1Ilu2LC3hXEOTmyzSjj_thumbnail.png",
+    "director": "Thomas Vinterberg",
+    "country": "Denmark",
+    "year": "1998",
+    "link": "https://www.criterion.com/films/28059-the-celebration"
+  },
+  {
+    "spine": "1109",
+    "title": "Time",
+    "img": "https://s3.amazonaws.com/criterion-production/films/d96f33f8a477ee51765a035bbc34699a/n689s3zSwpmRjjTEiMul4ddJ6Tt4Py_thumbnail.jpg",
+    "director": "Garrett Bradley",
+    "country": "United States",
+    "year": "2020",
+    "link": "https://www.criterion.com/films/32170-time"
+  },
+  {
+    "spine": "1110",
+    "title": "The Piano",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b00b4eb81b46d0aa1cf61302bef95c46/0xxCTEtAzuHJsO8lTYn4aNOmMt26rR_thumbnail.jpg",
+    "director": "Jane Campion",
+    "country": "New Zealand",
+    "year": "1993",
+    "link": "https://www.criterion.com/films/30424-the-piano"
+  },
+  {
+    "spine": "1111",
+    "title": "Dick Johnson Is Dead",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a994fc466ee3c064c7ebfd4e5897c517/EBnz2kbd21duh5ZPp9Qam4bJTkgf9g_thumbnail.jpg",
+    "director": "Kirsten Johnson",
+    "country": "United States",
+    "year": "2020",
+    "link": "https://www.criterion.com/films/32311-dick-johnson-is-dead"
+  },
+  {
+    "spine": "1112",
+    "title": "Miller’s Crossing",
+    "img": "https://s3.amazonaws.com/criterion-production/films/903b8aad0357703566863b7452ea88ae/ywmdW8j68FUjjFo0c9214xL9cxnQb2_thumbnail.jpg",
+    "director": "Joel Coen",
+    "country": "United States",
+    "year": "1990",
+    "link": "https://www.criterion.com/films/29604-miller-s-crossing"
+  },
+  {
+    "spine": "1113",
+    "title": "Boat People",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e71840d73f9fb96a658df86b0a8bead6/ZgGiOOksWOICnlrW6vvvKGbjfOLnul_thumbnail.jpg",
+    "director": "Ann Hui",
+    "country": "Hong Kong",
+    "year": "1982",
+    "link": "https://www.criterion.com/films/30455-boat-people"
+  },
+  {
+    "spine": "1114",
+    "title": "Love Affair",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5d36a5632a72de8f26897fdfe0aef98e/7nbQ6Ge1FXD35rC2nuKNyEk1Lnlxok_thumbnail.jpg",
+    "director": "Leo McCarey",
+    "country": "United States",
+    "year": "1939",
+    "link": "https://www.criterion.com/films/32533-love-affair"
+  },
+  {
+    "spine": "1115",
+    "title": "Adoption",
+    "img": "https://s3.amazonaws.com/criterion-production/films/111e03d51ec5a1c6ff5ea883aeaa4e52/14CdE9H4an6YShLhyxtGaIL3FwSsGh_thumbnail.jpg",
+    "director": "Márta Mészáros",
+    "country": "Hungary",
+    "year": "1975",
+    "link": "https://www.criterion.com/films/31237-adoption"
+  },
+  {
+    "spine": "1116",
+    "title": "The Flight of the Phoenix",
+    "img": "https://s3.amazonaws.com/criterion-production/films/d4372819bbd2cbdc23a4fbbda0a21a50/ydf8AovFa3TOSnyGXwV9dLEX9cdG1f_thumbnail.jpg",
+    "director": "Robert Aldrich",
+    "country": "United States",
+    "year": "1965",
+    "link": "https://www.criterion.com/films/28566-the-flight-of-the-phoenix"
+  },
+  {
+    "spine": "1117",
+    "title": "love jones",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8320379e417616d329fe8a5d215d71fa/cCjXz3j7PwJ2MczCP6uNS3wYIyxjn1_thumbnail.jpg",
+    "director": "Theodore Witcher",
+    "country": "United States",
+    "year": "1997",
+    "link": "https://www.criterion.com/films/31501-love-jones"
+  },
+  {
+    "spine": "1118",
+    "title": "The Last Waltz",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0c98e536bcf53f47ef115c4aa9d4e964/gHlAmy28mnBlcdfbc3nZM9URpv5hWs_thumbnail.jpg",
+    "director": "Martin Scorsese",
+    "country": "United States",
+    "year": "1978",
+    "link": "https://www.criterion.com/films/29460-the-last-waltz"
+  },
+  {
+    "spine": "1119",
+    "title": "Miracle in Milan",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8e7f59a5c9124ca8483b9f6c631d9374/ndIvV52qItj6s1jjV2gOwgTxclIMhl_thumbnail.jpg",
+    "director": "Vittorio De Sica",
+    "country": "Italy",
+    "year": "1951",
+    "link": "https://www.criterion.com/films/28176-miracle-in-milan"
+  },
+  {
+    "spine": "1120",
+    "title": "The Girl Can’t Help It",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c2940dfd01507e29ff3a8c15ff22f578/o9J5etKpLNvnxnBtmlTJBbCvVGxyAC_thumbnail.jpg",
+    "director": "Frank Tashlin",
+    "country": "United States",
+    "year": "1956",
+    "link": "https://www.criterion.com/films/29605-the-girl-can-t-help-it"
+  },
+  {
+    "spine": "1121",
+    "title": "Eyimofe (This Is My Desire)",
+    "img": "https://s3.amazonaws.com/criterion-production/films/dd2d3225ad2fb3a1df181de9320a8d0e/uTrhJxEvZeosCyfh0AdvsMrG9PZBZM_thumbnail.jpg",
+    "director": "Arie Esiri and Chuko Esiri",
+    "country": "Nigeria",
+    "year": "2020",
+    "link": "https://www.criterion.com/films/32158-eyimofe-this-is-my-desire"
+  },
+  {
+    "spine": "1122",
+    "title": "’Round Midnight",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f0d131afa79169e59ab41e5c64b0070b/Bu1NdqFyV6gvXhif42Ey2qkSVzbyAu_thumbnail.jpg",
+    "director": "Bertrand Tavernier",
+    "country": "United States",
+    "year": "1986",
+    "link": "https://www.criterion.com/films/29031--round-midnight"
+  },
+  {
+    "spine": "1123",
+    "title": "Mr. Klein",
+    "img": "https://s3.amazonaws.com/criterion-production/films/198770fcb150f9833afeff386f370945/dKQ4kyULKKAr3ytt6qfP7RCFf5sRxM_thumbnail.jpg",
+    "director": "Joseph Losey",
+    "country": "France",
+    "year": "1976",
+    "link": "https://www.criterion.com/films/28112-mr-klein"
+  },
+  {
+    "spine": "1124",
+    "title": "Chan Is Missing",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f7b1ce8ef4021bfdce6c4b86f77b185a/v3fOxFyrvjrGkDDtXktcmZTM2CcaU0_thumbnail.jpg",
+    "director": "Wayne Wang",
+    "country": "United States",
+    "year": "1982",
+    "link": "https://www.criterion.com/films/31920-chan-is-missing"
+  },
+  {
+    "spine": "1125",
+    "title": "The Funeral",
+    "img": "https://s3.amazonaws.com/criterion-production/films/f8d4fb428c7045d50f983265957c8f81/Si0vJEBz7rk3zrrnG6AWmpR8jRBqWc_thumbnail.jpg",
+    "director": "Juzo Itami",
+    "country": "Japan",
+    "year": "1984",
+    "link": "https://www.criterion.com/films/28879-the-funeral"
+  },
+  {
+    "spine": "1126",
+    "title": "Double Indemnity",
+    "img": "https://s3.amazonaws.com/criterion-production/films/b415e7735c3b593f2fb714c2c6831a26/So0yJBlzFXZG1ganHAXLtpJPhBnmg4_thumbnail.jpg",
+    "director": "Billy Wilder",
+    "country": "United States",
+    "year": "1944",
+    "link": "https://www.criterion.com/films/30460-double-indemnity"
+  },
+  {
+    "spine": "1127",
+    "title": "Mississippi Masala",
+    "img": "https://s3.amazonaws.com/criterion-production/films/aa6732f5649c11b23429c37280a91c06/6ks3CBn0gVkR60pKAQuy3Y0JrMwghK_thumbnail.jpg",
+    "director": "Mira Nair",
+    "country": "United States",
+    "year": "1991",
+    "link": "https://www.criterion.com/films/32237-mississippi-masala"
+  },
+  {
+    "spine": "1128",
+    "title": "Farewell Amor",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6aa282f2b06b1ee95a1f9680c8491234/trpuurtIfBgxct2B16UqXKWvTXVPID_thumbnail.jpg",
+    "director": "Ekwa Msangi",
+    "country": "United States",
+    "year": "2020",
+    "link": "https://www.criterion.com/films/32604-farewell-amor"
+  },
+  {
+    "spine": "1129",
+    "title": "Rouge",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e11ca449f2cc5e9a79e2a8f8cfb76812/K6SjqdLKnHy6CAYepGgIEJjdUaT7pK_thumbnail.jpg",
+    "director": "Stanley Kwan",
+    "country": "Hong Kong",
+    "year": "1987",
+    "link": "https://www.criterion.com/films/30738-rouge"
+  },
+  {
+    "spine": "1130",
+    "title": "Shaft",
+    "img": "https://s3.amazonaws.com/criterion-production/films/6d1732d3317987825a869c00ff64f0c0/qfRZzSjwACbqAtW2jTD8QEHPFCBf3G_thumbnail.jpg",
+    "director": "Gordon Parks",
+    "country": "United States",
+    "year": "1971",
+    "link": "https://www.criterion.com/films/30643-shaft"
+  },
+  {
+    "spine": "1201",
+    "title": "Guillermo del Toro’s Pinocchio",
+    "img": "https://s3.amazonaws.com/criterion-production/films/be7f8d5b69965f36f76a5b64746866ed/Cwt4rROcpYq9L9HrawgZuc70M30SQI_thumbnail.jpg",
+    "director": "Guillermo del Toro and Mark Gustafson",
+    "country": "Mexico",
+    "year": "2022",
+    "link": "https://www.criterion.com/films/33828-guillermo-del-toro-s-pinocchio"
+  },
+  {
+    "spine": "1202",
+    "title": "Lone Star",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5ee0b75e6433b4ed248c99e27ad442e6/OqgRIz7bYZuOtEsN6u7IuLXqvQ80WR_thumbnail.jpg",
+    "director": "John Sayles",
+    "country": "United States",
+    "year": "1996",
+    "link": "https://www.criterion.com/films/29021-lone-star"
+  },
+  {
+    "spine": "1203",
+    "title": "Chantal Akerman Masterpieces, 1968–1978",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/2042-2f7db434e5c209b4ee1cd9f076605cba/ZadPfeme4Y97VAeWUh4j0Yn8jJfjus_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/7045-chantal-akerman-masterpieces-1968-1978"
+  },
+  {
+    "spine": "1204",
+    "title": "Trainspotting",
+    "img": "https://s3.amazonaws.com/criterion-production/films/42f48a159c5e313eb70d2f4511decffb/FGRmEozrb7z3RNKE2ttD2BjD9ARATc_thumbnail.jpg",
+    "director": "Danny Boyle",
+    "country": "United Kingdom",
+    "year": "1996",
+    "link": "https://www.criterion.com/films/29627-trainspotting"
+  },
+  {
+    "spine": "1205",
+    "title": "Mudbound",
+    "img": "https://s3.amazonaws.com/criterion-production/release_boxshots/5247-dd4832f4cda361fe4254d2e5b465dc88/sZwvZWrZW65duaiL9UHEL2lNL6BUpT_original.jpg",
+    "director": "Dee Rees",
+    "country": "United States",
+    "year": "2017",
+    "link": "https://www.criterion.com/films/33829-mudbound"
+  },
+  {
+    "spine": "1206",
+    "title": "Eric Rohmer’s Tales of the Four Seasons",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/2047-1ab3d6ac27a9108676d9f0bfc7fd598c/PmRRgkyht2tDRV1jbOi6F8V7mAlKby_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/7154-eric-rohmer-s-tales-of-the-four-seasons"
+  },
+  {
+    "spine": "1207",
+    "title": "The Heroic Trio / Executioners",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/2048-cfb481924edd7d583e858e021b7482d0/nyUd7Pj1Vk0VBImJZDMA2nIi0CnySk_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/7155-the-heroic-trio-executioners"
+  },
+  {
+    "spine": "1208",
+    "title": "The Roaring Twenties",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a56aed274f145932ccf0a4a557757a74/Mn3OG4vEgeiAdn27hDNZoSRiZOQvkJ_thumbnail.jpg",
+    "director": "Raoul Walsh",
+    "country": "United States",
+    "year": "1939",
+    "link": "https://www.criterion.com/films/29030-the-roaring-twenties"
+  },
+  {
+    "spine": "1209",
+    "title": "Nothing but a Man",
+    "img": "https://s3.amazonaws.com/criterion-production/films/45a4a16f3cfdd8e7317181b22355fc61/jCk7dMoelZIhm58MXL8U66fyMFgdjt_thumbnail.jpg",
+    "director": "Michael Roemer",
+    "country": "United States",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/31775-nothing-but-a-man"
+  },
+  {
+    "spine": "1210",
+    "title": "All the Beauty and the Bloodshed",
+    "img": "https://s3.amazonaws.com/criterion-production/films/c4d9e40547a7cf098feae498e3a98c86/xcoyzXVcTJdptqsAHelbcdY5J2y6av_thumbnail.jpg",
+    "director": "Laura Poitras",
+    "country": "United States",
+    "year": "2022",
+    "link": "https://www.criterion.com/films/33813-all-the-beauty-and-the-bloodshed"
+  },
+  {
+    "spine": "1211",
+    "title": "The Runner",
+    "img": "https://s3.amazonaws.com/criterion-production/films/8f55c58e5aab85f816de71ce771b5055/z1FFFq1zjiDXZ1qHZ38njht9fzlOsC_thumbnail.jpg",
+    "director": "Amir Naderi",
+    "country": "Iran",
+    "year": "1984",
+    "link": "https://www.criterion.com/films/34099-the-runner"
+  },
+  {
+    "spine": "1212",
+    "title": "Saint Omer",
+    "img": "https://s3.amazonaws.com/criterion-production/films/1baad8b7d5dc29744cbd262d1502b8b7/7nslycY8VgPrwkyYP9YWsAIRwStlxs_thumbnail.jpg",
+    "director": "Alice Diop",
+    "country": "France",
+    "year": "2022",
+    "link": "https://www.criterion.com/films/34051-saint-omer"
+  },
+  {
+    "spine": "1213",
+    "title": "To Die For",
+    "img": "https://s3.amazonaws.com/criterion-production/films/66cb607d36a0f3e3718f476999aaca9f/QNVAy1mXuBYcZwGOJ4mXF0EgcEUpuf_thumbnail.jpg",
+    "director": "Gus Van Sant",
+    "country": "United States",
+    "year": "1995",
+    "link": "https://www.criterion.com/films/32358-to-die-for"
+  },
+  {
+    "spine": "1214",
+    "title": "I Am Cuba",
+    "img": "https://s3.amazonaws.com/criterion-production/films/df31b5be0bde2dad8042b5d56607dddf/1BHgE6ZqUn6yBc4Ds9Pq3VlfKLd8uT_thumbnail.jpg",
+    "director": "Mikhail Kalatozov",
+    "country": "Cuba",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/33466-i-am-cuba"
+  },
+  {
+    "spine": "1215",
+    "title": "Werckmeister Harmonies",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4685c626c6c288958660886bf31ca96e/fdL4eOWxwyJhsalqklpRacuoyL1Fvs_thumbnail.jpg",
+    "director": "Béla Tarr and Ágnes Hranitzky",
+    "country": "Hungary",
+    "year": "2000",
+    "link": "https://www.criterion.com/films/33388-werckmeister-harmonies"
+  },
+  {
+    "spine": "1216",
+    "title": "Dogfight",
+    "img": "https://s3.amazonaws.com/criterion-production/films/413b83856783ca7e8bb625633879210b/7s7iFJisvhdtc48SmKdRyHJrvuI8En_thumbnail.jpg",
+    "director": "Nancy Savoca",
+    "country": "United States",
+    "year": "1991",
+    "link": "https://www.criterion.com/films/33803-dogfight"
+  },
+  {
+    "spine": "1217",
+    "title": "Three Revolutionary Films by Ousmane Sembène",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/2052-ba01382dd60c8332caec522da182b732/csDyqiAqrOJgCze9HjJXZR4sJdi6yF_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/7304-three-revolutionary-films-by-ousmane-sembene"
+  },
+  {
+    "spine": "1218",
+    "title": "Anatomy of a Fall",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5a8c7056b0f3173cd6706471109661e8/wZy6NE9NhmiEDTecl0IXwz1aRFQcT3_thumbnail.jpg",
+    "director": "Justine Triet",
+    "country": "France",
+    "year": "2023",
+    "link": "https://www.criterion.com/films/34134-anatomy-of-a-fall"
+  },
+  {
+    "spine": "1219",
+    "title": "Girlfight",
+    "img": "https://s3.amazonaws.com/criterion-production/films/280357fa3290d829c99fcaa1a690aebb/CJVEzgYz3BhNckBy7sMdptZfJsTRhX_thumbnail.jpg",
+    "director": "Karyn Kusama",
+    "country": "United States",
+    "year": "2000",
+    "link": "https://www.criterion.com/films/33189-girlfight"
+  },
+  {
+    "spine": "1220",
+    "title": "Bound",
+    "img": "https://s3.amazonaws.com/criterion-production/films/eb912042faeb712b502841eeba166ff2/r3JEoPqjyZChQElHpnROL8LBUYSqkT_thumbnail.jpg",
+    "director": "Lana Wachowski and Lilly Wachowski",
+    "country": "United States",
+    "year": "1996",
+    "link": "https://www.criterion.com/films/33670-bound"
+  },
+  {
+    "spine": "1221",
+    "title": "Querelle",
+    "img": "https://s3.amazonaws.com/criterion-production/films/ca24a4e989f60d566c9f69f044f557f4/jHjKgkJJbgZoku2ZfROHqVmAdA87t8_thumbnail.jpg",
+    "director": "Rainer Werner Fassbinder",
+    "country": "Germany",
+    "year": "1982",
+    "link": "https://www.criterion.com/films/27974-querelle"
+  },
+  {
+    "spine": "1222",
+    "title": "Victims of Sin",
+    "img": "https://s3.amazonaws.com/criterion-production/films/36fb4cef4f102bfea894126f135a6005/of8Rq0ASveNgFq05NaHrExBLqFAJm1_thumbnail.jpg",
+    "director": "Emilio Fernández",
+    "country": "Mexico",
+    "year": "1951",
+    "link": "https://www.criterion.com/films/33289-victims-of-sin"
+  },
+  {
+    "spine": "1223",
+    "title": "The Underground Railroad",
+    "img": "https://s3.amazonaws.com/criterion-production/films/4eb58c6206e7e890b267b36c5d54ef06/PaQEKFaspUcS4ED1ZlhBiKzP5gdAOM_thumbnail.jpg",
+    "director": "Barry Jenkins",
+    "country": "United States",
+    "year": "2021",
+    "link": "https://www.criterion.com/films/34073-the-underground-railroad"
+  },
+  {
+    "spine": "1224",
+    "title": "Pat Garrett and Billy the Kid",
+    "img": "https://s3.amazonaws.com/criterion-production/films/a6ea05a93532c164e0ebdb2e3b7b2e5c/SFKvsYbfUvn7ZYRrBRUN3MdLLZN2YR_thumbnail.jpg",
+    "director": "Sam Peckinpah",
+    "country": "United States",
+    "year": "1973",
+    "link": "https://www.criterion.com/films/29028-pat-garrett-and-billy-the-kid"
+  },
+  {
+    "spine": "1225",
+    "title": "Black God, White Devil",
+    "img": "https://s3.amazonaws.com/criterion-production/films/96658f821cd8972dc59e453776713a30/AEpdIJD7E95bVQjbnDCBTRtPfR1Ip3_thumbnail.jpg",
+    "director": "Glauber Rocha",
+    "country": "Brazil",
+    "year": "1964",
+    "link": "https://www.criterion.com/films/33537-black-god-white-devil"
+  },
+  {
+    "spine": "1226",
+    "title": "Perfect Days",
+    "img": "https://s3.amazonaws.com/criterion-production/films/edb6ac93eb872556a9d47ff779159ada/jY2zurB57hpteerhVoG8bVHmQwut0E_thumbnail.jpg",
+    "director": "Wim Wenders",
+    "country": "Japan",
+    "year": "2023",
+    "link": "https://www.criterion.com/films/34274-perfect-days"
+  },
+  {
+    "spine": "1227",
+    "title": "Risky Business",
+    "img": "https://s3.amazonaws.com/criterion-production/films/e6bb212e86e003de68f36bebdcbbc444/1wyqU9UpAdxzVFwZGYmVdG93Vx4G9q_thumbnail.jpg",
+    "director": "Paul Brickman",
+    "country": "United States",
+    "year": "1983",
+    "link": "https://www.criterion.com/films/33808-risky-business"
+  },
+  {
+    "spine": "1228",
+    "title": "Farewell My Concubine",
+    "img": "https://s3.amazonaws.com/criterion-production/films/0a21daac708a99e761df1530b0bcbbbb/39QIK2lnUNDARIhbxHclkjUnjRIc3R_thumbnail.jpg",
+    "director": "Chen Kaige",
+    "country": "China",
+    "year": "1993",
+    "link": "https://www.criterion.com/films/34098-farewell-my-concubine"
+  },
+  {
+    "spine": "1229",
+    "title": "Brief Encounters / The Long Farewell: Two Films by Kira Muratova",
+    "img": "https://s3.amazonaws.com/criterion-production/product_images/2060-1287910e39269374b5a3d51bd6169bef/4lANA89xq2vrb5t1Uv2VjaRZpouYyh_small.jpg",
+    "director": " ",
+    "country": "",
+    "year": " ",
+    "link": "https://www.criterion.com/boxsets/7479-brief-encounters-the-long-farewell-two-films-by-kira-muratova"
+  },
+  {
+    "spine": "1230",
+    "title": "Not a Pretty Picture",
+    "img": "https://s3.amazonaws.com/criterion-production/films/5091b7df0205a80f483a04d7200fccb4/uMY3xLhGXQITT5yDXXMVoVJlB3FBUz_thumbnail.jpg",
+    "director": "Martha Coolidge",
+    "country": "United States",
+    "year": "1975",
+    "link": "https://www.criterion.com/films/33619-not-a-pretty-picture"
+  },
+  {
+    "spine": "1231",
+    "title": "Real Life",
+    "img": "https://s3.amazonaws.com/criterion-production/films/963348aaa8fc80bbdad1df2a9fdd006c/3W6uMp3ZSVotrQcwF1fdJoXgChLWtM_thumbnail.jpg",
+    "director": "Albert Brooks",
+    "country": "United States",
+    "year": "1979",
+    "link": "https://www.criterion.com/films/30974-real-life"
+  }
+]

@@ -1,4 +1,34 @@
 <html>
   <head>
+    <script src="app.js" type="module"></script>
   </head>
+  <body>
+    <h1>Criterion Birthday</h1>
+    <form>
+      <fieldset>
+        <legend>Birthday</legend>
+        <p>
+          <label for="month">Month</label>
+          <label for="date">Date</label>
+        </p>
+        <p>
+          <input type="number" id="month" min="1" max="12" />
+          <input type="number" id="date" min="1" max="31" />
+        </p>
+      </fieldset>
+    </form>
+
+    <div id="result">
+      <h2><a id="title"></a></h2>
+      <img id="poster" />
+      <dl>
+        <dt>Year</dt>
+        <dd id="year"></dd>
+        <dt>Director</dt>
+        <dd id="Director"></dd>
+        <dt>Country</dt>
+        <dd id="country"></dd>
+      </dl>
+    </div>
+  </body>
 </html>
