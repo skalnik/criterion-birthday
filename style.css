@@ -50,7 +50,7 @@ input[type="number"] {
   font-size: 1rem;
   border: 1px solid rgb(16, 15, 15);
   border-radius: 4px;
-  background: white;
+  background: rgb(242, 240, 229);
   width: 4rem;
   margin-right: 0.5rem;
 }
@@ -83,14 +83,44 @@ dl {
   grid-template-columns: auto 1fr;
   gap: 0.5rem 1rem;
   margin: 0 0 1rem 0;
+
+  dt {
+    font-weight: bold;
+  }
+
+  dd {
+    color: rgb(111, 110, 105);
+    margin: 0;
+  }
 }
 
-dt {
-  font-weight: bold;
-}
 
-dd {
-  color: rgb(111, 110, 105);
-  margin: 0;
+@media (prefers-color-scheme: dark) {
+  html {
+    background: rgb(16, 15, 15);
+    color: rgb(206, 205, 195);
+  }
+
+  fieldset {
+    border-color: rgb(40, 39, 38);
+    .error {
+      border-color: rgb(209, 77, 65);
+    }
+  }
+
+  a {
+    color: rgb(58, 169, 159);
+  }
+
+  dd {
+    color: rgb(135, 133, 128);
+  }
+
+  input[type=number] {
+    color: rgb(206, 205, 195);
+    border-color: rgb(206, 205, 195);
+    background: rgb(28, 27, 26);
+
+  }
 }
 
