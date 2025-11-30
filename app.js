@@ -52,7 +52,7 @@ function validateBirthday() {
     return false
   }
 
-  if([4, 6, 9, 11].includes(month) && date > 30) {
+  if([4, 6, 9, 11].includes(parseInt(month)) && date > 30) {
     fieldset.classList.add("error")
     msg.innerText = "Something smells off about that date."
     return false
