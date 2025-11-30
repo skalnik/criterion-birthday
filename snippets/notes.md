@@ -18,4 +18,4 @@ Spines:
 
 Found Spine 212 missing: https://www.lostincriterion.com/e/ingmar-bergman-makes-a-movie/
 
-Posters downloaded via `poster_fetcher.py` & `data.csv`
+Initial posters downloaded via `poster_fetcher.py` & `data.csv`
