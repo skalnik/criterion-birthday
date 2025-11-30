@@ -14,8 +14,8 @@ Spines:
 1101-1130
 1201-1231
 
-`data.csv` dumped thru web inspector via console.js
+`data.csv`/`data.json` dumped thru web inspector via console.js
 
 Found Spine 212 missing: https://www.lostincriterion.com/e/ingmar-bergman-makes-a-movie/
 
-Posters downloaded via `poster_fetcher.py`
+Posters downloaded via `poster_fetcher.py` & `data.csv`
