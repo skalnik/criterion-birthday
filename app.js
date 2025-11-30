@@ -26,6 +26,7 @@ function chooseMovie() {
   title.href = movie['link']
   title.innerText = movie['title']
   
+  result.querySelector("#spine").innerText = movie['spine']
   result.querySelector("#year").innerText = movie['year']
   result.querySelector("#director").innerText = movie['director']
   result.querySelector("#country").innerText = movie['country']
