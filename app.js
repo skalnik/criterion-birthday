@@ -5,8 +5,16 @@ const monthInput = document.querySelector("#month")
 const dateInput = document.querySelector("#date")
 const result = document.querySelector("#result")
 
-monthInput.value = (new Date).getMonth() + 1
-dateInput.value = (new Date).getDate()
+addEventListener("load", () => {
+  if(location.hash == "") {
+    monthInput.value = (new Date).getMonth() + 1
+    dateInput.value = (new Date).getDate()
+  } else {
+    const spine = location.hash.slice(1)
+    monthInput.value = spine.slice(0, -2)
+    dateInput.value = spine.slice(-2)
+  }
+})
 
 document.querySelectorAll("input").forEach((input) => {
   input.addEventListener("input", chooseMovie, false)
@@ -25,8 +33,9 @@ function chooseMovie() {
   const title = result.querySelector("#title")
   title.href = movie['link']
   title.innerText = movie['title']
-  
-  result.querySelector("#spine").innerText = movie['spine']
+
+  location.hash = `#${spine}`
+  result.querySelector("#spine").innerText = spine
   result.querySelector("#year").innerText = movie['year']
   result.querySelector("#director").innerText = movie['director']
   result.querySelector("#country").innerText = movie['country']
@@ -77,7 +86,7 @@ async function loadMovies() {
 
 function pad(value) {
   if (value < 10) {
-    return `0${value}`
+    return `0${parseInt(value)}`
   }
 
   return value
