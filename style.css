@@ -1,0 +1,96 @@
+html {
+  background: rgb(255, 252, 240);
+  color: rgb(16, 15, 15);
+  display: flex;
+  justify-content: center;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+body {
+  width: 90%;
+  max-width: 900px;
+  padding: 0 1rem 2rem 1rem;
+  margin: 0;
+}
+
+h1 {
+  margin: 0 0 1rem 0;
+  font-size: 2.5rem;
+}
+
+form {
+  p {
+    margin: 0.5rem 0;
+  }
+
+  fieldset {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    #error {
+      display: none
+    }
+  }
+
+  fieldset.error {
+    border-color: rgb(175, 48, 41);
+
+    #error {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+  }
+
+}
+
+input[type="number"] {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid rgb(16, 15, 15);
+  border-radius: 4px;
+  background: white;
+  width: 4rem;
+  margin-right: 0.5rem;
+}
+
+a {
+  color: rgb(36, 131, 123);
+}
+
+legend {
+  font-weight: bold;
+  padding: 0 0.5rem;
+}
+
+fieldset {
+  border: 1px solid rgb(230, 228, 217);
+  border-radius: 4px;
+  padding: 0 1.5rem 1.0rem 1.5rem;
+}
+
+#poster {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.5rem 1rem;
+  margin: 0 0 1rem 0;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  color: rgb(111, 110, 105);
+  margin: 0;
+}
+

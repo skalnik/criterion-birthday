@@ -1,34 +1,44 @@
 <html>
   <head>
     <script src="app.js" type="module"></script>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <h1>Criterion Birthday</h1>
-    <form>
+    <form id="birthday">
       <fieldset>
         <legend>Birthday</legend>
-        <p>
-          <label for="month">Month</label>
-          <label for="date">Date</label>
-        </p>
-        <p>
-          <input type="number" id="month" min="1" max="12" />
-          <input type="number" id="date" min="1" max="31" />
-        </p>
+        <div id="inputs">
+          <p>
+            <label for="month">Month</label>
+            /
+            <label for="date">Date</label>
+          </p>
+          <p>
+            <input type="number" id="month" min="1" max="12" />
+            <span>/</span>
+            <input type="number" id="date" min="1" max="31" />
+          </p>
+        </div>
+        <div id="error">
+          <p class="msg">
+          </p>
+        </div>
       </fieldset>
     </form>
 
-    <div id="result">
-      <h2><a id="title"></a></h2>
-      <img id="poster" />
-      <dl>
-        <dt>Year</dt>
-        <dd id="year"></dd>
-        <dt>Director</dt>
-        <dd id="Director"></dd>
-        <dt>Country</dt>
-        <dd id="country"></dd>
-      </dl>
+    <div id="result" style="display: none">
+      <fieldset form="birthday">
+        <legend><h2><a id="title"></a></h2></legend>
+        <dl>
+          <dt>Year</dt>
+          <dd id="year"></dd>
+          <dt>Director</dt>
+          <dd id="Director"></dd>
+          <dt>Country</dt>
+          <dd id="country"></dd>
+        </dl>
+        <img id="poster" />
     </div>
   </body>
 </html>
