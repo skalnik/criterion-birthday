@@ -18,6 +18,8 @@ addEventListener("load", () => {
   document.querySelectorAll("input").forEach((input) => {
     input.addEventListener("input", chooseMovie)
   })
+
+  chooseMovie(false)
 })
 
 function chooseMovie(setHash = true) {
@@ -93,8 +95,12 @@ function validateBirthday() {
 }
 
 async function loadMovies() {
-  movies = await fetch("data.json").then((response) => response.json())
-  chooseMovie(false)
+  fetch("data.json").
+    then((response) => response.json()).
+    then((json) => {
+      movies = json
+      chooseMovie(false)
+    })
 }
 
 function pad(value) {
