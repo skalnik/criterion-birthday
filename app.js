@@ -14,10 +14,10 @@ addEventListener("load", () => {
     monthInput.value = spine.slice(0, -2)
     dateInput.value = spine.slice(-2)
   }
-})
 
-document.querySelectorAll("input").forEach((input) => {
-  input.addEventListener("input", chooseMovie, false)
+  document.querySelectorAll("input").forEach((input) => {
+    input.addEventListener("input", chooseMovie)
+  })
 })
 
 function chooseMovie(setHash = true) {
