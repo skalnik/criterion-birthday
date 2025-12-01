@@ -38,11 +38,20 @@ function chooseMovie(setHash = true) {
     location.hash = `#${spine}`
   }
 
-  result.querySelector("#spine").innerText = spine
+  function setAttr(attr, value) {
+    if(value && value.trim() !== "") {
+      result.querySelector(`#${attr}`).innerText = value
+      document.querySelectorAll(`.${attr}`).forEach((e) => e.style['display'] = 'block')
+    } else {
+      document.querySelectorAll(`.${attr}`).forEach((e) => e.style['display'] = 'none')
+    }
+  }
 
-  result.querySelector("#year").innerText = movie['year']
-  result.querySelector("#director").innerText = movie['director']
-  result.querySelector("#country").innerText = movie['country']
+  setAttr("spine", spine)
+  setAttr("year", movie['year'])
+  setAttr("director", movie['director'])
+  setAttr("country", movie['country'])
+
   result.querySelector("#poster").src = `posters/${spine}.jpg`
   result.style["display"] = 'block'
 }
