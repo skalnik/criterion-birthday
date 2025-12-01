@@ -20,7 +20,7 @@ document.querySelectorAll("input").forEach((input) => {
   input.addEventListener("input", chooseMovie, false)
 })
 
-function chooseMovie() {
+function chooseMovie(setHash = true) {
   if(!validateBirthday()) {
     return
   }
@@ -34,7 +34,10 @@ function chooseMovie() {
   title.href = movie['link']
   title.innerText = movie['title']
 
-  location.hash = `#${spine}`
+  if(setHash) {
+    location.hash = `#${spine}`
+  }
+
   result.querySelector("#spine").innerText = spine
   result.querySelector("#year").innerText = movie['year']
   result.querySelector("#director").innerText = movie['director']
@@ -81,7 +84,7 @@ function validateBirthday() {
 
 async function loadMovies() {
   movies = await fetch("data.json").then((response) => response.json())
-  chooseMovie()
+  chooseMovie(false)
 }
 
 function pad(value) {
