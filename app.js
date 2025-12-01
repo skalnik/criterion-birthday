@@ -39,6 +39,7 @@ function chooseMovie(setHash = true) {
   }
 
   result.querySelector("#spine").innerText = spine
+
   result.querySelector("#year").innerText = movie['year']
   result.querySelector("#director").innerText = movie['director']
   result.querySelector("#country").innerText = movie['country']
@@ -53,27 +54,27 @@ function validateBirthday() {
   const month = monthInput.value
   const date = dateInput.value
 
-  if(month > 12 || month < 1) {
+  function addError(msg) {
     fieldset.classList.add("error")
-    msg.innerText = "Woah buddy, that month ain't right."
+    msg.innerText = msg
+  }
+
+  if(month > 12 || month < 1) {
     return false
   }
 
   if(date < 1 || date > 31) {
-    fieldset.classList.add("error")
-    msg.innerText = "Now see here, I need a valid birthdate!"
+    addError("Now see here, I need a valid birthdate!")
     return false
   }
 
   if([4, 6, 9, 11].includes(parseInt(month)) && date > 30) {
-    fieldset.classList.add("error")
-    msg.innerText = "Something smells off about that date."
+    addError("Something smells off about that date.")
     return false
   }
 
   if(month == 2 && date > 29) {
-    fieldset.classList.add("error")
-    msg.innerText = "Leaping lizards I don't think we got leap years that big!"
+    addError("Leaping lizards I don't think we got leap years that big!")
     return false
   }
 
