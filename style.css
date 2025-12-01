@@ -123,3 +123,9 @@ dl {
   }
 }
 
+@media (max-width: 420px) {
+  form > fieldset {
+    display: block;
+    grid-template-columns: 1fr;
+  }
+}
