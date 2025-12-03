@@ -3,7 +3,7 @@
 import csv
 import urllib.request
 
-with open('data.csv', newline='') as file:
+with open('snippets/data.csv', newline='') as file:
     csvreader = csv.reader(file, delimiter=';')
     next(csvreader, None)
     for row in csvreader:
@@ -12,4 +12,3 @@ with open('data.csv', newline='') as file:
         if poster_url:
             print(f"Downloading poster for {spine}...")
             urllib.request.urlretrieve(poster_url, f"posters/{spine}.jpg")
-
