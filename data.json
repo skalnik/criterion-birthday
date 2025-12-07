@@ -379,7 +379,10 @@
   },
   {
      "spine": "212",
-     "title": "Ingmar Bergman Makes a Movie"
+     "title": "Ingmar Bergman Makes a Movie",
+     "director": "Vilgot Sjöman",
+     "year": "1963",
+     "link": "https://www.criterion.com/boxsets/89-a-film-trilogy-by-ingmar-bergman"
   },
   {
     "spine": "213",

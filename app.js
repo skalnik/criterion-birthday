@@ -40,6 +40,12 @@ function chooseMovie(setHash = true) {
     location.hash = `#${spine}`
   }
 
+  if(spine == "212") {
+    result.querySelector("fieldset").classList.add("special")
+  } else {
+    result.querySelector("fieldset").classList.remove("special")
+  }
+
   function setAttr(attr, value) {
     if(value && value.trim() !== "") {
       result.querySelector(`#${attr}`).innerText = value
