@@ -29,7 +29,7 @@ function chooseMovie(setHash = true) {
 
   const month = monthInput.value
   const date = dateInput.value
-  const spine = `${month}${pad(date)}`
+  const spine = `${strip(month)}${pad(date)}`
   const movie = movies.find((m) => m['spine'] == spine)
 
   const title = result.querySelector("#title")
@@ -115,4 +115,8 @@ function pad(value) {
   }
 
   return value
+}
+
+function strip(value) {
+  return value.replace(/^0+/, '')
 }
